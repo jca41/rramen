@@ -1,0 +1,24 @@
+{
+  "title": "Miso Ramen",
+  "slug": "miso-ramen",
+  "description": "",
+  "images": [],
+  "broth": {
+    "ingredients": [
+      "4 pounds pork neck bones",
+      "One pig trotter",
+      "One whole chicken, broken down, breasts removed",
+      "One large white onion, roughly chopped",
+      "10 garlic cloves",
+      "One two inch long piece of ginger, peeled",
+      "water as needed"
+    ],
+    "steps": [
+      "Take the pork neck bones and pig trotter, and blanch them in boiling water for around 10-20 minutes, or until scum stops rising. This blanch helps to clean the pork of its “funk” and keeps the stock clear.",
+      "Dump the blanching water, and rinse the bones of any residual scum.",
+      "Add the bones and foot back to the pot, along with the chicken and aromatics, and cover with water by at least two inches.",
+      "Bring the stock to a boil, then down to the tiiiiiiniest of simmers (like, barely a bubble breaks the surface, just occasionally blubbing up) around 176-190 degrees F, and cover. The higher your temp gets before an actual boil, the better your collagen conversion to gelatin will be. Cook at this temperature for at least 6 hours, but preferably 10 hours. Don’t stir! It’ll cloud the stock! This is very delicate and any agitation will emulsify particulate.",
+      "Strain the solids. Reserve until needed."
+    ]
+  }
+}

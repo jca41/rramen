@@ -1,0 +1,33 @@
+{
+  "name": "rl-recipes",
+  "version": "1.0.0",
+  "description": "ramenLord recipes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_OPTIONS='--inspect' next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jca41/rl-recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jca41/rl-recipes/issues"
+  },
+  "homepage": "https://github.com/jca41/rl-recipes#readme",
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "printWidth": 120
+  }
+}
