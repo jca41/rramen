@@ -1,13 +1,16 @@
 import Instructions from './instructions';
-import { Button } from 'semantic-ui-react';
+import { Layout, Typography } from 'antd';
+const { Content } = Layout;
+const { Title } = Typography;
 
-const Recipe = ({ title, ingredients, broth }) => {
+const Recipe = ({ title, ...props }) => {
   return (
-    <div>
-      <h1>{title}</h1>
-      <Instructions name={'Broth'} {...broth} />
-      <Button>Click Here</Button>
-    </div>
+    <Layout>
+      <Content className={'layout__content'}>
+        <Title>{title}</Title>
+        <Instructions {...props} />
+      </Content>
+    </Layout>
   );
 };
 
