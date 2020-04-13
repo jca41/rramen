@@ -4,10 +4,11 @@
   "description": "ramenLord recipes",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "ENABLE_CMS=true next",
     "build": "next build",
     "start": "next start",
-    "export": "npm run build && next export"
+    "export": "npm run build && next export",
+    "cms": "netlify-cms-proxy-server"
   },
   "repository": {
     "type": "git",
@@ -33,5 +34,9 @@
   "prettier": {
     "singleQuote": true,
     "printWidth": 120
+  },
+  "devDependencies": {
+    "netlify-cms-app": "^2.12.7",
+    "netlify-cms-proxy-server": "^1.2.4"
   }
 }
