@@ -8,11 +8,11 @@ const { Paragraph, Title } = Typography;
 const TabContent = ({ ingredients, steps, description }) => (
   <Fragment>
     <Paragraph>{description}</Paragraph>
-    <Row gutter={[16, 0]}>
-      <Col span={12}>
+    <Row gutter={[32, 0]}>
+      <Col span={24} md={{ span: 12 }}>
         <Ingredients data={ingredients} />
       </Col>
-      <Col span={12}>
+      <Col span={24} md={{ span: 12 }}>
         <Steps data={steps} />
       </Col>
     </Row>
@@ -23,7 +23,7 @@ const Instructions = ({ broth, tare, noodles }) => {
   return (
     <div>
       <Title level={2}>Instructions</Title>
-      <Tabs defaultActiveKey="1" size={'large'}>
+      <Tabs animated={false} defaultActiveKey="1" size={'large'}>
         <TabPane tab="Broth" key="1">
           <TabContent {...broth} />
         </TabPane>

@@ -2,7 +2,7 @@ import { Fragment, useState } from 'react';
 import { Steps, Typography } from 'antd';
 
 const { Step } = Steps;
-const { Title } = Typography;
+const { Title, Paragraph } = Typography;
 
 const StepsComponent = ({ data = [] }) => {
   const [current, setCurrent] = useState(0);
@@ -14,7 +14,7 @@ const StepsComponent = ({ data = [] }) => {
       </Title>
       <Steps direction="vertical" current={current} onChange={setCurrent}>
         {data.map((i) => (
-          <Step description={i} />
+          <Step key={i} description={<Paragraph>{i}</Paragraph>} />
         ))}
       </Steps>
     </Fragment>
