@@ -19,20 +19,15 @@ const TabContent = ({ ingredients, steps, description }) => (
   </Fragment>
 );
 
-const Instructions = ({ broth, tare, noodles }) => {
+const Instructions = ({ components, broth, tare, noodles, oil }) => {
   return (
-    <div>
-      <Title level={2}>Instructions</Title>
-      <Tabs animated={false} defaultActiveKey="1" size={'large'}>
-        <TabPane tab="Broth" key="1">
-          <TabContent {...broth} />
-        </TabPane>
-        <TabPane tab="Tare" key="2">
-          <TabContent {...tare} />
-        </TabPane>
-        <TabPane tab="Noodles" key="3">
-          <TabContent {...noodles} />
-        </TabPane>
+    <div className={'instructions'}>
+      <Tabs animated={false} defaultActiveKey={0} size={'large'}>
+        {components.map((c, key) => (
+          <TabPane tab={c.name} key={key}>
+            <TabContent {...c} />
+          </TabPane>
+        ))}
       </Tabs>
     </div>
   );
