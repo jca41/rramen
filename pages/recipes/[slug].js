@@ -17,10 +17,10 @@ export async function getStaticPaths() {
     const recipeFile = path.join(recipesFolder, name);
     const { slug } = JSON.parse(fs.readFileSync(recipeFile, 'utf8'));
 
-    return slug;
+    return `/recipes/${slug}`;
   });
 
-  return { paths: ['/recipes/miso-ramen'], fallback: false };
+  return { paths, fallback: false };
 }
 
 export default Recipe;

@@ -1,5 +1,5 @@
 import { Layout, Typography, Row, Col } from 'antd';
-
+import { Fragment } from 'react';
 import Instructions from './instructions';
 import TextBlock from './text-block';
 import ImageCarousel from './image-carousel';
@@ -14,10 +14,13 @@ const Recipe = ({ title, description, method, images, ...props }) => {
         <Typography>
           <Title>{title}</Title>
           <ImageCarousel data={images} />
-
           <TextBlock data={description} />
-          <Title level={2}>Method</Title>
-          <TextBlock data={method} />
+          {method && (
+            <Fragment>
+              <Title level={2}>Method</Title>
+              <TextBlock data={method} />
+            </Fragment>
+          )}
         </Typography>
         <Instructions {...props} />
       </Content>

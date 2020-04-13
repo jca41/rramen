@@ -60,7 +60,10 @@
     },
     {
       "name": "Noodles",
-      "description": "Sapporo noodles are fairly minerally, chewy, and curly. So I up the water content, gluten content, and alkaline content to promote more chew and flavor than a standard Tokyo noodle. Some Sapporo ramen noodles also have egg white (around 1 egg white per 500 grams flour), but I haven’t played with this much. If you were interested, simply replace some of the water with equal weight egg white",
+      "description": [
+        "Sapporo noodles are fairly minerally, chewy, and curly. So I up the water content, gluten content, and alkaline content to promote more chew and flavor than a standard Tokyo noodle. Some Sapporo ramen noodles also have egg white (around 1 egg white per 500 grams flour), but I haven’t played with this much. If you were interested, simply replace some of the water with equal weight egg white",
+        "Per portion: <i>measure everything by weight</i>"
+      ],
       "ingredients": [
         "98.5g King Arthur bread flour (12.7% protein by weight)",
         "1.5 g vital wheat gluten (aprox 77.5% protein by weight)",

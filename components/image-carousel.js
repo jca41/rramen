@@ -10,7 +10,7 @@ const Slide = () => {
 const ImageCarousel = ({ data = [] }) => {
   return (
     <div>
-      <Carousel autoplay className={'image-carousel'} acessibility>
+      <Carousel className={'image-carousel'} acessibility>
         {data.map((image) => (
           <div className={'image-carousel__slide'}>
             <img src={image} />
