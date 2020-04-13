@@ -1,5 +1,4 @@
-import 'antd/dist/antd.min.css';
-import '../app.css';
+import '../styles/index.less';
 
 export default function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
