@@ -1,5 +1,5 @@
 {
-  "name": "rl-recipes",
+  "name": "next-rl-recipes",
   "version": "1.0.0",
   "description": "ramenLord recipes",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jca41/rl-recipes.git"
+    "url": "git+https://github.com/jca41/next-rl-recipes.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jca41/rl-recipes/issues"
+    "url": "https://github.com/jca41/next-rl-recipes/issues"
   },
-  "homepage": "https://github.com/jca41/rl-recipes#readme",
+  "homepage": "https://github.com/jca41/next-rl-recipes#readme",
   "dependencies": {
     "@zeit/next-less": "^1.0.1",
     "antd": "^4.1.2",
