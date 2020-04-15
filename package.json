@@ -4,6 +4,8 @@
   "description": "ramenLord recipes",
   "main": "index.js",
   "scripts": {
+    "cms-server": "netlify-cms-proxy-server",
+    "cms": "http-server ./dev-cms && netlify-cms-proxy-server",
     "dev": "next",
     "build": "next build",
     "start": "next start",
@@ -33,5 +35,9 @@
   "prettier": {
     "singleQuote": true,
     "printWidth": 120
+  },
+  "devDependencies": {
+    "http-server": "^0.12.1",
+    "netlify-cms-proxy-server": "^1.2.5"
   }
 }
