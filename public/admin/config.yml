@@ -1,7 +1,6 @@
 backend:
-  name: proxy
+  name: git-gateway
   branch: master
-  proxy_url: http://localhost:8081/api/v1
 media_folder: public/img
 public_folder: img
 show_preview_links: false
