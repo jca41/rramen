@@ -1,25 +1,27 @@
-import { Typography } from 'antd';
+import { Typography, Tag, Divider } from 'antd';
 import { Fragment } from 'react';
+import ReactMarkdown from 'react-markdown';
 import Instructions from './instructions';
 import TextBlock from './text-block';
 import ImageCarousel from './image-carousel';
 
-const { Title } = Typography;
+const { Title, Text, Paragraph } = Typography;
 import Layout from './layout';
 
-const Recipe = ({ title, description, method, images, ...props }) => {
+const Recipe = ({ title, originalRecipe, intro, method, images, ...props }) => {
   return (
     <Layout title={title}>
       <Typography>
-        <Title>{title}</Title>
+        <Title className={'recipe__title'}>{title}</Title>
         <ImageCarousel data={images} />
-        <TextBlock data={description} />
-        {method && (
-          <Fragment>
-            <Title level={2}>Method</Title>
-            <TextBlock data={method} />
-          </Fragment>
-        )}
+        <Divider />
+        <ReactMarkdown className={'recipe__intro'} source={intro} />
+        <Paragraph className={'recipe__original-link'}>
+          <Text strong> Original recipe: </Text>
+          <Tag color="gold">
+            <a href={originalRecipe}>link</a>
+          </Tag>
+        </Paragraph>
       </Typography>
       <Instructions {...props} />
     </Layout>

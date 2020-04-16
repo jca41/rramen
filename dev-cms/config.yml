@@ -9,12 +9,17 @@ collections:
     name: 'recipe'
     format: 'json'
     extension: 'json'
-    folder: 'page-data/recipes'
+    folder: 'data/recipes'
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Original Recipe', name: 'originalRecipe', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Intro', name: 'intro', widget: 'markdown' }
+      - label: 'Images'
+        name: 'images'
+        widget: 'list'
+        field: {label: 'Image Url', widget: 'string'}
       - label: 'Components'
         name: 'components'
         widget: 'list'
@@ -24,8 +29,8 @@ collections:
           - label: 'Ingredients'
             name: 'ingredients'
             widget: 'list'
-            field: { label: 'Ingredient', name: 'ingredient', widget: 'string' }
+            field: { label: 'Ingredient', widget: 'string' }
           - label: 'Steps'
             name: 'steps'
             widget: 'list'
-            field: { label: 'Step', name: 'step', widget: 'markdown' }
+            field: { label: 'Step', widget: 'markdown' }

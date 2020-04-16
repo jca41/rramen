@@ -3,22 +3,17 @@ import path from 'path';
 import Recipe from '../../components/recipe';
 
 export async function getStaticProps({ params }) {
-  const recipeFile = path.join(process.cwd(), `/data/${params.slug}.json`);
+  const recipeFile = path.join(process.cwd(), `/data/recipes/${params.slug}.json`);
 
   const data = fs.readFileSync(recipeFile, 'utf8');
   return { props: JSON.parse(data) };
 }
 
 export async function getStaticPaths() {
-  const recipesFolder = path.join(process.cwd(), `/data`);
+  const recipesFolder = path.join(process.cwd(), `/data/recipes`);
   const filenames = fs.readdirSync(recipesFolder);
 
-  const paths = filenames.map((name) => {
-    const recipeFile = path.join(recipesFolder, name);
-    const { slug } = JSON.parse(fs.readFileSync(recipeFile, 'utf8'));
-
-    return `/recipes/${slug}`;
-  });
+  const paths = filenames.map((name) => `/recipes/${name.replace('.json', '')}`);
 
   return { paths, fallback: false };
 }
