@@ -19,7 +19,9 @@ const Recipe = ({ title, originalRecipe, intro, method, images, ...props }) => {
         <Paragraph className={'recipe__original-link'}>
           <Text strong> Original recipe: </Text>
           <Tag color="gold">
-            <a href={originalRecipe}>link</a>
+            <a target={'_blank'} href={originalRecipe}>
+              link
+            </a>
           </Tag>
         </Paragraph>
       </Typography>

@@ -1,5 +1,27 @@
+@page-max-width: 1400px;
+
 .layout__content {
   margin: 0 auto;
-  max-width: 1400px;
+  width: 100%;
+  max-width: @page-max-width;
   padding: 50px;
+}
+
+.layout__header {
+  padding: 0;
+  &-content {
+    width: 100%;
+    max-width: @page-max-width;
+    margin: 0 auto;
+    padding: 0 50px;
+  }
+
+  &-menu {
+    display: inline-block;
+  }
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
 }
