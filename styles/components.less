@@ -26,7 +26,11 @@
 
 .image-carousel {
   max-width: 640px;
-  margin: 80px auto 50px auto;
+  margin: 40px auto 25px auto;
+
+  @media (min-width: @screen-md-min) {
+    margin: 80px auto 50px auto;
+  }
 
   &__slide {
     display: flex;

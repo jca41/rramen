@@ -1,27 +1,39 @@
 @page-max-width: 1300px;
+@mobile-layout-padding: 20px;
+@desktop-layout-padding: 50px;
 
 .layout__content {
-  margin: 0 auto;
   width: 100%;
+  margin: 0 auto;
   max-width: @page-max-width;
-  padding: 50px;
+
+  padding: @mobile-layout-padding;
+  @media (min-width: @screen-md-min) {
+    padding: @desktop-layout-padding;
+  }
 }
 
 .layout__header {
   padding: 0;
   &-content {
     width: 100%;
-    max-width: @page-max-width;
     margin: 0 auto;
-    padding: 0 50px;
+    max-width: @page-max-width;
+
+    padding: 0 @mobile-layout-padding;
+    @media (min-width: @screen-md-min) {
+      padding: 0 @desktop-layout-padding;
+    }
   }
 
   &-menu {
     display: inline-block;
+    margin-left: 10px;
   }
 }
 
 .logo {
   height: 50px;
   width: 50px;
+  vertical-align: middle;
 }
