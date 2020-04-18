@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/jca41/next-rl-recipes#readme",
   "dependencies": {
+    "@ant-design/icons": "^4.0.6",
     "@zeit/next-less": "^1.0.1",
     "antd": "^4.1.2",
     "less": "^3.11.1",

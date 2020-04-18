@@ -1,13 +1,13 @@
 import { Fragment } from 'react';
+import ReactMarkdown from 'react-markdown';
 import { Tabs, Row, Col, Typography } from 'antd';
 import Ingredients from './ingredients';
 import Steps from './steps';
 const { TabPane } = Tabs;
-import TextBlock from './text-block';
 
 const TabContent = ({ ingredients, steps, description }) => (
   <Fragment>
-    <TextBlock data={description} />
+    <ReactMarkdown source={description} />
     <Row gutter={[32, 0]}>
       <Col span={24} md={{ span: 12 }}>
         <Ingredients data={ingredients} />
