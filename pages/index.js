@@ -4,9 +4,9 @@ import Layout from '../components/layout';
 
 export default function Home() {
   return (
-    <Layout title={'Home'} navItem={'/'}>
+    <Layout title={'Home'}>
       <h1>Homepage</h1>
-      <Link href="/recipes/miso-ramen">
+      <Link href="/recipes/[slug]" as="/recipes/miso-ramen/">
         <a>Recipes</a>
       </Link>
     </Layout>

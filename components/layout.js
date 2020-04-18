@@ -5,11 +5,11 @@ import Nav from './nav';
 
 const { Content, Footer } = AntLayout;
 
-const Layout = ({ children, title, navItem }) => (
+const Layout = ({ children, title }) => (
   <Fragment>
     <PageHead title={title} />
     <AntLayout>
-      <Nav navItem={navItem} />
+      <Nav />
       <Content className={'layout__content'}>{children}</Content>
       <Footer style={{ textAlign: 'center' }} theme={'dark'}>
         <div>
