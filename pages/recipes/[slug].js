@@ -12,8 +12,7 @@ export async function getStaticProps({ params }) {
 export async function getStaticPaths() {
   const recipesFolder = path.join(process.cwd(), `/data/recipes`);
   const filenames = fs.readdirSync(recipesFolder);
-
-  const paths = filenames.map((name) => `/recipes/${name.replace('.json', '')}`);
+  const paths = filenames.map((name) => ({ params: { slug: name.replace('.json', '') } }));
 
   return { paths, fallback: false };
 }
