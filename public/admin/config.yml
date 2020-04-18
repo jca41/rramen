@@ -5,20 +5,32 @@ media_folder: public/img
 public_folder: img
 show_preview_links: false
 collections:
-  - label: 'Home'
-    name: 'home'
-    files:
-      - label: 'About Page'
-        name: 'about'
-        file: 'site/content/about.yml'
-        fields:
-          - { label: Title, name: title, widget: string }
   - label: 'Recipe'
     name: 'recipe'
-    folder: '/content/recipes'
+    format: 'json'
+    extension: 'json'
+    folder: 'data/recipes'
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Original Recipe', name: 'originalRecipe', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Intro', name: 'intro', widget: 'markdown' }
+      - label: 'Images'
+        name: 'images'
+        widget: 'list'
+        field: { label: 'Image Url', widget: 'string' }
+      - label: 'Components'
+        name: 'components'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
+          - label: 'Ingredients'
+            name: 'ingredients'
+            widget: 'list'
+            field: { label: 'Ingredient', widget: 'string' }
+          - label: 'Steps'
+            name: 'steps'
+            widget: 'list'
+            field: { label: 'Step', widget: 'markdown' }
