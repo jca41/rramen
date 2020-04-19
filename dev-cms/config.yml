@@ -5,32 +5,49 @@ media_folder: public/img
 public_folder: img
 show_preview_links: false
 collections:
-  - label: 'Recipe'
-    name: 'recipe'
-    format: 'json'
-    extension: 'json'
-    folder: 'data/recipes'
+  - label: Author
+    name: author
+    format: json
+    extension: json
+    folder: data/authors
+    create: true
+    identifier_field: name
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: Profile url, name: profile, widget: string }
+  - label: Recipe
+    name: recipe
+    format: json
+    extension: json
+    folder: data/recipes
     create: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Original Recipe', name: 'originalRecipe', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Intro', name: 'intro', widget: 'markdown' }
-      - label: 'Images'
-        name: 'images'
-        widget: 'list'
-        field: {label: 'Image Url', widget: 'string'}
-      - label: 'Components'
-        name: 'components'
-        widget: 'list'
+      - { label: Title, name: title, widget: string }
+      - label: Author
+        name: author
+        widget: relation
+        collection: author
+        searchFields: [name]
+        displayFields: [name]
+        valueField: slug
+      - { label: Original Recipe, name: originalRecipe, widget: string }
+      - { label: Publish Date, name: date, widget: datetime }
+      - { label: Intro, name: intro, widget: markdown }
+      - label: Images
+        name: images
+        widget: list
+        field: { label: Image Url, widget: string }
+      - label: Components
+        name: components
+        widget: list
         fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'Description', name: 'description', widget: 'markdown' }
-          - label: 'Ingredients'
-            name: 'ingredients'
-            widget: 'list'
-            field: { label: 'Ingredient', widget: 'string' }
-          - label: 'Steps'
-            name: 'steps'
-            widget: 'list'
-            field: { label: 'Step', widget: 'markdown' }
+          - { label: Name, name: name, widget: string }
+          - { label: Description, name: description, widget: markdown }
+          - label: Ingredients
+            name: ingredients
+            widget: list
+            field: { label: Ingredient, widget: string }
+          - label: Steps
+            name: steps
+            widget: list
+            field: { label: Step, widget: markdown }
