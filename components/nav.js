@@ -28,7 +28,7 @@ const Nav = () => {
             </Link>
           </Menu.Item>
           <Menu.Item key={ROUTES.recipes.href}>
-            <Link href="/recipes/[slug]" as="/recipes/miso-ramen/">
+            <Link href="/recipes/[slug]" as="/recipes/miso-ramen">
               <a>{ROUTES.recipes.label}</a>
             </Link>
           </Menu.Item>

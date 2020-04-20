@@ -3,7 +3,7 @@ import Head from 'next/head';
 const PageHead = ({ title }) => (
   <Head>
     <title>{`r/ramen recipes | ${title}`}</title>
-    <meta name="description" content="Collection of recipes from https://www.reddit.com/r/ramen/" />
+    <meta name="description" content="Collection of ramen recipes from https://www.reddit.com/r/ramen/" />
     <meta name="author" content="https://github.com/jca41" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />

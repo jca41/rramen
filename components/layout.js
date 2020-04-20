@@ -10,7 +10,9 @@ const Layout = ({ children, title }) => (
     <PageHead title={title} />
     <AntLayout>
       <Nav />
-      <Content className={'layout__content'}>{children}</Content>
+      <Content className={'layout__wrapper'}>
+        <div className={'layout__content'}>{children}</div>
+      </Content>
       <Footer style={{ textAlign: 'center' }} theme={'dark'}>
         <div>
           Icons made by{' '}

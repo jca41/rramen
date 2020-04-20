@@ -13,7 +13,7 @@ const Tag = ({ label, href }) => (
 
 const Credits = ({ originalRecipe }) => (
   <Paragraph className={'credits'}>
-    <Text strong> Tags: </Text>
+    <Text strong> Credits: </Text>
     <Tag label={'u/jca4'} href={'/jca41'} />
     <Tag label={'r/post'} href={originalRecipe} />
   </Paragraph>

@@ -12,7 +12,7 @@ const Recipe = ({ title, originalRecipe, intro, method, images, ...props }) => {
   return (
     <Layout title={title}>
       <Typography>
-        <Title className={'recipe__title'}>{title}</Title>
+        <Title className={'page-title'}>{title}</Title>
         <ImageCarousel data={images} />
         <Divider />
         <ReactMarkdown className={'recipe__intro'} source={intro} />

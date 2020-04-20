@@ -1,15 +1,29 @@
 @page-max-width: 1300px;
 @mobile-layout-padding: 20px;
-@desktop-layout-padding: 50px;
+@desktop-x-layout-padding: 50px;
+@desktop-y-layout-padding: 90px;
 
-.layout__content {
+body {
+  background-color: @layout-body-background;
+}
+
+.layout__wrapper {
   width: 100%;
   margin: 0 auto;
   max-width: @page-max-width;
 
+  @media (min-width: @screen-md-min) {
+    padding: @desktop-x-layout-padding;
+  }
+}
+.layout__content {
+  background-color: @white;
+  width: 100%;
+  min-height: 800px;
+
   padding: @mobile-layout-padding;
   @media (min-width: @screen-md-min) {
-    padding: @desktop-layout-padding;
+    padding: @desktop-x-layout-padding;
   }
 }
 
@@ -22,7 +36,7 @@
 
     padding: 0 @mobile-layout-padding;
     @media (min-width: @screen-md-min) {
-      padding: 0 @desktop-layout-padding;
+      padding: 0 @desktop-x-layout-padding;
     }
   }
 
@@ -36,4 +50,8 @@
   height: 50px;
   width: 50px;
   vertical-align: middle;
+}
+
+.page-title {
+  text-align: center;
 }
