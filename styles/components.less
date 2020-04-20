@@ -1,7 +1,3 @@
-.text-block__content {
-  text-align: justify;
-}
-
 .instructions {
   padding-top: 20px;
 }
@@ -40,5 +36,37 @@
   img {
     max-width: 100%;
     object-fit: cover;
+  }
+}
+
+.banner {
+  position: relative;
+  z-index: 0;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: url('/images/ramen-banner.jpg');
+    background-size: cover;
+    filter: contrast(1.5) brightness(50%);
+  }
+
+  &__content {
+    filter: drop-shadow(2px 4px 6px black);
+
+    h1,
+    h3 {
+      color: white !important;
+    }
+
+    padding: 40px 20px;
+    @media (min-width: @screen-md-min) {
+      padding: 80px 20px;
+    }
   }
 }

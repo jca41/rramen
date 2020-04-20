@@ -1,10 +1,11 @@
 import Head from 'next/head';
+import { REDDIT_URL, AUTHOR_URL } from '../constants';
 
 const PageHead = ({ title }) => (
   <Head>
     <title>{`r/ramen recipes | ${title}`}</title>
-    <meta name="description" content="Collection of ramen recipes from https://www.reddit.com/r/ramen/" />
-    <meta name="author" content="https://github.com/jca41" />
+    <meta name="description" content={`Collection of ramen recipes from ${REDDIT_URL}`} />
+    <meta name="author" content={AUTHOR_URL} />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="shortcut icon" href="/favicon.ico" />
