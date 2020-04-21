@@ -24,7 +24,6 @@
   "homepage": "https://github.com/jca41/next-rl-recipes#readme",
   "dependencies": {
     "@ant-design/icons": "^4.0.6",
-    "@zeit/next-less": "^1.0.1",
     "antd": "^4.1.2",
     "less": "^3.11.1",
     "next": "^9.3.4",
@@ -39,6 +38,8 @@
     "printWidth": 120
   },
   "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-less": "^1.0.1",
     "http-server": "^0.12.1",
     "netlify-cms-proxy-server": "^1.2.5"
   }

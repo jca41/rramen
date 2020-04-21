@@ -8,10 +8,8 @@ if (typeof require !== 'undefined') {
   require.extensions['.less'] = (file) => {};
 }
 
-module.exports = withCSS(
-  withLess({
-    lessLoaderOptions: {
-      javascriptEnabled: true,
-    },
-  })
-);
+module.exports = withLess({
+  lessLoaderOptions: {
+    javascriptEnabled: true,
+  },
+});

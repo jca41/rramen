@@ -1,10 +1,10 @@
 import { Fragment } from 'react';
 import { Typography } from 'antd';
 
-import Layout from '../components/layout';
 import { REDDIT_URL } from '../constants';
-
+import Layout from '../components/layout';
 import Banner from '../components/banner';
+import RecipeList from './recipe-list';
 const { Title } = Typography;
 
 const Homepage = () => {
@@ -27,7 +27,7 @@ const Homepage = () => {
   return (
     <Fragment>
       <Layout title={'Home'} banner={banner}>
-        <Typography className={'homepage'}></Typography>
+        <RecipeList />
       </Layout>
     </Fragment>
   );
