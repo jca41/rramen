@@ -17,8 +17,13 @@ export const getFolderFilenames = (location) => {
   return fs.readdirSync(getFullPath(location));
 };
 
-export const getRecipeData = (slug) => {
-  const recipe = getFileData(`/data/recipes/${slug}.json`);
+export const getRecipeData = (location) => {
+  const filename = location.includes('.json') ? location : `${location}.json`;
+  const recipe = getFileData(`/data/recipes/${filename}`);
 
   return { ...recipe, author: recipe.author ? getFileData(`/data/authors/${recipe.author}.json`) : {} };
 };
+
+export const withoutExt = (filename) => filename.replace('.json', '');
+
+export const getRecipeSlugFromFilename = (filename) => `/recipes/${withoutExt(filename)}`;

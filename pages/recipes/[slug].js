@@ -1,13 +1,19 @@
 import Recipe from '../../components/recipe';
-import { getRecipeData, getFolderFilenames } from '../../utilities/page-data';
+import { getRecipeData, getFolderFilenames, withoutExt, getRecipeSlugFromFilename } from '../../utilities/page-data';
 
 export async function getStaticProps({ params }) {
-  return { props: getRecipeData(params.slug) };
+  const recipes = getFolderFilenames(`/data/recipes`).map((filename) => {
+    const { title } = getRecipeData(filename);
+
+    return { slug: getRecipeSlugFromFilename(filename), title };
+  });
+
+  return { props: { ...getRecipeData(params.slug), recipes } };
 }
 
 export async function getStaticPaths() {
   const filenames = getFolderFilenames(`/data/recipes`);
-  const paths = filenames.map((name) => ({ params: { slug: name.replace('.json', '') } }));
+  const paths = filenames.map((name) => ({ params: { slug: withoutExt(name) } }));
 
   return { paths, fallback: false };
 }

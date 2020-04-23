@@ -7,9 +7,9 @@ import Credits from './credits';
 
 const { Title } = Typography;
 
-const Recipe = ({ title, originalRecipe, intro, method, images, ...props }) => {
+const Recipe = ({ title, originalRecipe, intro, method, images, recipes, ...props }) => {
   return (
-    <Layout title={title}>
+    <Layout title={title} navItems={recipes}>
       <Typography>
         <Title className={'center-align'}>{title}</Title>
         <ImageCarousel data={images} />

@@ -1,20 +1,20 @@
 import { Card, Col, Row } from 'antd';
+import Link from 'next/link';
 
-const dataset = [
-  { name: 'recipe 1' },
-  { name: 'recipe 2' },
-  { name: 'recipe 3' },
-  { name: 'recipe 4' },
-  { name: 'recipe 5' },
-];
+import { ROUTES } from '../constants';
+
+const { Meta } = Card;
+
 const RecipeList = ({ data }) => {
   return (
     <Row>
-      {dataset.map(({ name }) => (
-        <Col span={12} md={{ span: 8 }}>
-          <Card title={name}>
-            <p>some content</p>
-          </Card>
+      {data.map(({ title, slug, image, author }) => (
+        <Col key={title} span={12} md={{ span: 8 }}>
+          <Link href={ROUTES.recipes.href} as={slug}>
+            <Card className={'recipe-list__item'} hoverable cover={<img alt={title} src={image} />}>
+              <Meta title={title} description={author.name && `u/${author.name}`} />
+            </Card>
+          </Link>
         </Col>
       ))}
     </Row>

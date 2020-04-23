@@ -66,7 +66,17 @@
 
     padding: 40px 20px;
     @media (min-width: @screen-md-min) {
-      padding: 80px 20px;
+      padding: 100px 20px;
     }
+  }
+}
+
+.recipe-list__item {
+  img {
+    transition: filter 0.3s ease-in-out;
+  }
+
+  &:hover img {
+    filter: contrast(1.2) saturate(0.9);
   }
 }

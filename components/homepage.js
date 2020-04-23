@@ -7,7 +7,7 @@ import Banner from '../components/banner';
 import RecipeList from './recipe-list';
 const { Title } = Typography;
 
-const Homepage = () => {
+const Homepage = ({ recipes = [] }) => {
   const banner = (
     <Banner>
       <Fragment>
@@ -16,7 +16,7 @@ const Homepage = () => {
         </Title>
         <Title className={'center-align'} level={3}>
           A collection of recipes from{' '}
-          <a href={REDDIT_URL} target={'_blank'}>
+          <a href={REDDIT_URL} target={'_blank'} rel="noopener noreferrer">
             r/ramen
           </a>
         </Title>
@@ -26,8 +26,8 @@ const Homepage = () => {
 
   return (
     <Fragment>
-      <Layout title={'Home'} banner={banner}>
-        <RecipeList />
+      <Layout title={'Home'} banner={banner} navItems={recipes}>
+        <RecipeList data={recipes} />
       </Layout>
     </Fragment>
   );

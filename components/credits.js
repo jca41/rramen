@@ -1,11 +1,11 @@
-import { RedditCircleFilled, RedditOutlined } from '@ant-design/icons';
+import { RedditCircleFilled } from '@ant-design/icons';
 import { Typography, Tag as AntTag } from 'antd';
 
 const { Text, Paragraph } = Typography;
 
 const Tag = ({ label, href }) => (
   <AntTag color="gold" icon={<RedditCircleFilled className={'credits__icon'} />}>
-    <a target={'_blank'} href={href}>
+    <a target={'_blank'} rel="noopener noreferrer" href={href}>
       {label}
     </a>
   </AntTag>

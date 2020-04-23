@@ -5,11 +5,11 @@ import Nav from './nav';
 
 const { Content, Footer } = AntLayout;
 
-const Layout = ({ children, title, banner }) => (
+const Layout = ({ children, title, banner, navItems }) => (
   <Fragment>
     <PageHead title={title} />
     <AntLayout>
-      <Nav />
+      <Nav navItems={navItems} />
       <Content className={'layout__wrapper'}>
         {banner && <div className={'layout__banner'}>{banner}</div>}
         <div className={'layout__content'}>{children}</div>
