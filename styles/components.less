@@ -64,19 +64,33 @@
       color: white !important;
     }
 
-    padding: 40px 20px;
+    padding: 60px 20px;
     @media (min-width: @screen-md-min) {
-      padding: 100px 20px;
+      padding: 120px 20px;
     }
   }
 }
 
-.recipe-list__item {
-  img {
-    transition: filter 0.3s ease-in-out;
+.recipe-list {
+  padding: 25px;
+  @media (min-width: @screen-md-min) {
+    padding: 40px 0;
   }
 
-  &:hover img {
-    filter: contrast(1.2) saturate(0.9);
+  &__item {
+    &__img-container {
+      overflow: hidden;
+      margin-top: -1px;
+    }
+
+    img {
+      max-width: 100%;
+      transition: all 0.3s ease-in-out;
+    }
+
+    &:hover img {
+      transform: scale(1.04);
+      filter: contrast(1.2) saturate(0.9);
+    }
   }
 }

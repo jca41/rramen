@@ -1,14 +1,9 @@
 {
   "date": "2020-04-16T20:07:58.883Z",
-  "title": "Miso Ramen",
+  "title": "Test 1",
   "originalRecipe": "https://www.reddit.com/r/ramen/comments/365zgg/miso_ramen_101_a_primer_on_how_to_make_miso_ramen/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage",
   "intro": "> ***Miso ramen*** is my favorite. Hands down. I love miso ramen with a serious burning passion, and spend most of my time trying to identify ways to improve my recipe. It’s taken over 5 years so far, and I still learn every day.\n>\n> Without question, I learned this love in Japan. I lived in Sapporo for a while, and there, miso ramen is king. From legends like Junren and Sumire to smaller 3rd wave shops like Ichi-Ryu An and Saimi, there is a plethora of miso ramen. It’s everywhere, and every Sapporoan has their favorite shop.\n>\n> But even with this base of miso in the tare being relatively consistent, the shops differ greatly in their preperation of the dish. Perhaps the most noticable difference is the use of (or lack of) a wok, to stir fry vegetables in lard and then almost deglaze the wok with the broth. Conversely, many shops simply add the miso tare and aroma oil to the bowl, pour over stock, and whisk briefly to combine",
-  "images": [
-    "https://i.imgur.com/q8zp0wA.jpg",
-    "https://i.imgur.com/VmaOxXy.jpg",
-    "https://i.imgur.com/A9VliJS.jpg",
-    "https://i.imgur.com/zcI4KM5.jpg"
-  ],
+  "images": ["https://i.imgur.com/VmaOxXy.jpg", "https://i.imgur.com/A9VliJS.jpg", "https://i.imgur.com/zcI4KM5.jpg"],
   "components": [
     {
       "name": "Broth",
