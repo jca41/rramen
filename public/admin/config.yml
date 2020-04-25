@@ -20,6 +20,7 @@ collections:
     format: json
     extension: json
     folder: data/recipes
+    preview_path: recipes/{{slug}}
     create: true
     fields:
       - { label: Title, name: title, widget: string }
