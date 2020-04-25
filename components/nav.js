@@ -16,7 +16,13 @@ const Nav = ({ navItems = [] }) => {
         <Link href={ROUTES.home.href}>
           <img className="logo" src={'/images/ramen.svg'} />
         </Link>
-        <Menu className={'layout__header-menu'} theme="dark" mode="horizontal" selectedKeys={[router.asPath]}>
+        <Menu
+          className={'layout__header-menu'}
+          inlineCollapsed={false}
+          theme="dark"
+          mode="horizontal"
+          selectedKeys={[router.asPath]}
+        >
           <Menu.Item key={ROUTES.home.href}>
             <Link href={ROUTES.home.href}>
               <a>{ROUTES.home.label}</a>
