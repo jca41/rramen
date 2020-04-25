@@ -11,10 +11,10 @@ const Tag = ({ label, href }) => (
   </AntTag>
 );
 
-const Credits = ({ originalRecipe }) => (
+const Credits = ({ originalRecipe, author }) => (
   <Paragraph className={'credits'}>
     <Text strong> Credits: </Text>
-    <Tag label={'u/jca4'} href={'/jca41'} />
+    <Tag label={`u/${author.name}`} href={author.profile} />
     <Tag label={'r/post'} href={originalRecipe} />
   </Paragraph>
 );
