@@ -13,8 +13,7 @@ const getFileData = (location) => {
 };
 
 export const getFolderFilenames = (location) => {
-  const filenames = path.join(process.cwd(), location);
-  return fs.readdirSync(getFullPath(location));
+  return fs.readdirSync(getFullPath(location)).sort();
 };
 
 export const getRecipeData = (location) => {
