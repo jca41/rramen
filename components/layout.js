@@ -1,9 +1,10 @@
 import { Fragment } from 'react';
-import { Layout as AntLayout, Menu } from 'antd';
+import { Layout as AntLayout } from 'antd';
 import PageHead from './page-head';
 import Nav from './nav';
+import Footer from './footer';
 
-const { Content, Footer } = AntLayout;
+const { Content } = AntLayout;
 
 const Layout = ({ children, title, banner, navItems }) => (
   <Fragment>
@@ -14,18 +15,7 @@ const Layout = ({ children, title, banner, navItems }) => (
         {banner && <div className={'layout__banner'}>{banner}</div>}
         <div className={'layout__content'}>{children}</div>
       </Content>
-      <Footer style={{ textAlign: 'center' }} theme={'dark'}>
-        <div>
-          Icons made by{' '}
-          <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">
-            Flat Icons
-          </a>{' '}
-          from{' '}
-          <a href="https://www.flaticon.com/" title="Flaticon">
-            www.flaticon.com
-          </a>
-        </div>
-      </Footer>
+      <Footer />
     </AntLayout>
   </Fragment>
 );

@@ -1,2 +1,3 @@
-# rl-recipes
-ramenLord recipes
+# rramen
+
+A collection of recipes from https://www.reddit.com/r/ramen/
