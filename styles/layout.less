@@ -33,6 +33,7 @@ body {
   &-content {
     width: 100%;
     margin: 0 auto;
+    display: flex;
     max-width: @page-max-width;
 
     padding: 0 @mobile-layout-padding;
@@ -42,7 +43,6 @@ body {
   }
 
   &-menu {
-    display: inline-block;
     margin-left: 20px;
   }
 }
@@ -50,7 +50,7 @@ body {
 .logo {
   height: 50px;
   width: 50px;
-  vertical-align: middle;
+  align-self: center;
   cursor: pointer;
 }
 
