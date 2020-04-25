@@ -1,8 +1,9 @@
 import { Fragment, useState } from 'react';
 import { Steps, Typography } from 'antd';
+import ReactMarkdown from 'react-markdown';
 
 const { Step } = Steps;
-const { Title, Paragraph } = Typography;
+const { Title } = Typography;
 
 const StepsComponent = ({ data = [] }) => {
   const [current, setCurrent] = useState(0);
@@ -14,7 +15,7 @@ const StepsComponent = ({ data = [] }) => {
       </Title>
       <Steps direction="vertical" current={current} onChange={setCurrent}>
         {data.map((i) => (
-          <Step key={i} description={<Paragraph>{i}</Paragraph>} />
+          <Step key={i} description={<ReactMarkdown source={i} />} />
         ))}
       </Steps>
     </Fragment>

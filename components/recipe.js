@@ -1,4 +1,4 @@
-import { Typography, Tag, Divider } from 'antd';
+import { Typography, Divider } from 'antd';
 import ReactMarkdown from 'react-markdown';
 import Instructions from './instructions';
 import ImageCarousel from './image-carousel';
