@@ -81,6 +81,43 @@
         "Remove the pork from the oven, allow to cool to room temp, then place in the fridge, submerged in the cooking liquid, and allow to chill for at least 4 hours to promote easy slicing."
       ],
       "description": "ffgdfgdfg"
+    },
+    {
+      "name": "Egg",
+      "description": "aa",
+      "ingredients": [
+        "Eggs",
+        "chashu braising liquid",
+        "Mirin",
+        "Water",
+        "Soy sauce"
+      ],
+      "steps": [
+        "Bring a large pot of water to a boil.",
+        "Add your eggs, cooking for 6 min 30 seconds at a rolling boil.",
+        "Remove the eggs from the water, immediately shock in ice water and reserve to cool completely, around 15 minutes.",
+        "Crack, and peel the eggs, transfering to a zip lock or tupperware.",
+        "Add in mirin, soy sauce, water, and chashu braising liquid if you like, to taste (I do probably the same ratio as the chashu liquid, but personal preference rules here)."
+      ]
+    },
+    {
+      "name": "Assembly",
+      "description": "I get asked for specific amounts when adding tare to stock, so here's the full process. Generally a good ratio of tare to soup is around 1:10 (so for 300 ml soup, add 30 ml tare), but it can vary by tare and depends on your taste. Just eyeball it, you can always add more to the soup later.\n\nFor one bowl:",
+      "ingredients": [
+        "360 ml soup",
+        "40 ml tare",
+        "1 tbsp aroma oil",
+        "150 g noodles",
+        "Toppings as liked"
+      ],
+      "steps": [
+        "In your serving bowl, add the tare, aroma oil, and hot (just under boil is ideal) soup. Ideally in that order, as the cascading soup will help evenly disperse the aroma oil.",
+        "Cook your noodles in boiling water to just shy of done, stirring frequently to prevent sticking.",
+        "Strain the noodles thoroughly, then add to your bowl.",
+        "Swish the noodles in the broth to let them float freely in the soup. Don't want anything clinging to itself!",
+        "Add toppings and additional chicken fat as desired.",
+        "*Slurp. Love life. Feel your body succumb to chicken glory.*"
+      ]
     }
   ],
   "images": [
