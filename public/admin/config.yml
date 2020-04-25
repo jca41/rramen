@@ -44,7 +44,12 @@ collections:
         widget: list
         fields:
           - { label: Name, name: name, widget: string }
-          - { label: Description, name: description, widget: markdown }
+          - {
+              label: Description,
+              name: description,
+              widget: markdown,
+              required: false,
+            }
           - label: Ingredients
             name: ingredients
             widget: list
