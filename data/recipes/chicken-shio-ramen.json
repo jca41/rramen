@@ -1,0 +1,141 @@
+{
+  "date": "2020-04-25T20:35:43.890Z",
+  "title": "Chicken Shio Ramen",
+  "author": "Ramen_Lord",
+  "originalRecipe": "https://www.reddit.com/r/ramen/comments/3enr2k/next_on_my_tour_of_ramen_styles_homemade_chicken/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage",
+  "intro": "I get a lot of requests for ramen without fish. I also started getting really into the lighter broth styles, pushing myself to see how clear I could get the stock. This is the result of that research, an update if you will to my shio ramen before. Much more approachable for the american cook, with only a handful of odd ingredients.\n\n*Let's do this thang!*",
+  "components": [
+    {
+      "name": "Broth",
+      "description": "Chicken and vegetables, and nothing else. Really great chicken flavor is what we’re after. You’ll see that this method is virtually the same as the **[](https://www.reddit.com/r/ramen/comments/2w6ubu/an_update_to_my_homemade_tokyostyle_shoyu_ramen/)Tokyo Shoyu** one, without the fish. I also don’t blanch the feet here… no reason to really. I have learned better.",
+      "ingredients": [
+        "One 7 lb stewing hen, breasts removed, or 2 small chickens, broken down into quarters or halves.",
+        "2-3 lbs chicken feet, toes removed. (You can sub chicken wings if feet are hard to find)",
+        "One onion, cut in half",
+        "1 head of garlic, split open to expose the cloves",
+        "1 carrot, peeled"
+      ],
+      "steps": [
+        "Add the chicken to a pot, cover with water by at least 2 inches.",
+        "Heat the pot on the stove to 176 F. Hold here for one hour.",
+        "Bring the stock up to a boil briefly, skim any scum. Hold here for 5-10 minutes, or until scum subsides.",
+        "Reduce heat back down to 176, hold for a minimum of 5 hours.",
+        "After hitting 176, add your vegetables. Cook for 5-6 hours at 176F.",
+        "Strain the stock, reserving until needed."
+      ]
+    },
+    {
+      "name": "Tare",
+      "description": "I want to spend a lot of time here on this, because tare is mysterious. Tare is weird. Not a lot of people post good recipes on tare. And shio ramen is all about (to me) how the tare amplifies the flavor of the soup, but adds additional complexity.\n\nThis tare is stupidly simple, props to the tare book I purchased recently (yes these things exist!) for showing some of the method, though as usual, I include my own flair and other learnings. It’s great with light broths and simple enough that it pairs with chicken or fish broths very nicely.\n\nThis makes a really large amount of tare (easily enough for 20 bowls). Feel free to halve it.",
+      "ingredients": [
+        "15 g kombu",
+        "150 ml mirin",
+        "75 ml sake",
+        "75 ml dry white wine",
+        "500 ml chicken ramen stock (yes, the one you’re making!)",
+        "1/2 lb ground chicken",
+        "100 g salt",
+        "10-20 g msg (optional)"
+      ],
+      "steps": [
+        "The night before, combine the kombu, mirin, sake, and white wine in a container. Place in the fridge and steep overnight, or up to 24 hours.",
+        "When ready to make the tare, place the contents of step 1 in a saucepan and heat to 176 degrees. Hold for 5 minutes.",
+        "\n\n1. Remove the kombu from the liquid, add in the chicken ramen soup and the ground chicken. Cook, mixing frequently, at a boil until the chicken is thoroughly cooked, around 5 minutes.\n2.",
+        "Strain the liquid, reserving the cooked ground chicken for another use.",
+        "Place the strained liquid back into a pot and add the salt and (optional) MSG. Cook until dissolved, whisking to incorporate, around 2-3 minutes."
+      ]
+    },
+    {
+      "name": "Noodles",
+      "description": "I actually made two types in these photos, one with really low hydration and kansui, and one in the classic Tokyo style. Of the two, I feel that the alkalinity of the Tokyo ones works better with this dish, but if there's interest, I can provide the ratios and additional steps required for a really low hydration noodle.",
+      "ingredients": [
+        "99g King Arthur bread flour (12.7% protein by weight)",
+        "1 g vital wheat gluten (aprox 77.5% protein by weight)",
+        "40 g water",
+        "1 g salt",
+        "1 g baked soda or powdered kansui",
+        "Optional: Pinch of Riboflavin (this adds color, I just estimate it. A little goes a LONG way)"
+      ],
+      "steps": [
+        "Add baked soda and salt (and riboflavin if using) to the water, dissolve completely. I like to add one at a time, it seems like the baked soda dissolves better if added prior to the salt.",
+        "In the food processor, add your wheat gluten and flour. Pulse a few times to combine the two.",
+        "While running the food processor, add your water mixture slowly, in an even stream. Occasionally, stop to scrape the sides down. You know you're set when you have tiny grain like pieces.",
+        "Cover the food processor and let this rest for 30 minutes. This gives the flour granules time to fully absorb the water and alkaline salts.",
+        "Knead it. Currently I use an electric pasta machine to sheet the dough, going through the largest setting, then the 2nd, then the 3rd, then folding and repassing through the largest setting. I repass two to three times, or until I notice the dough is making the machine work really hard. I also like to fold the dough the same direction each time. \n\nSome articles I read suggested this kept the gluten strands running in the same direction, which promotes better texture. You'll notice interesting horizontal lines running along the length of your dough if you do it right. If this isn’t an option for you, I used to throw the mix into a plastic bag and step on it repeatedly, which simulates the kneading process used in an industrial setting.",
+        "When smooth, cover with plastic, and rest at room temp for an hour. This gives the gluten time to relax, and “ripens” the dough according to Japanese cooks.",
+        "Pull out your dough. Portion into workable sizes (around one serving's worth), and roll out to desired thickness, using potato starch as you go to prevent sticking. Do this with a pasta machine, it is borderline impossible without a machine. An electric one will save you an incredible amount of effort.",
+        "Cut your noodles to your desired thickness. You rule your ramen.",
+        "Ideally you should make these noodles in advance, they’re really nice after about a day in the fridge. They firm up a bit, and most recipes for noodles online discuss this resting phase prior to use. The general rule for this cure is that the higher the hydration, the longer the wait."
+      ]
+    },
+    {
+      "name": "Aroma oil",
+      "description": "Take 1 cup chicken fat, add green onion, and cook in a small saucepan over medium low heat until the green onion just starts to brown, around 30 min."
+    },
+    {
+      "name": "Chashu",
+      "steps": [
+        "Preheat the oven to 225 F. Take a slab of pork belly with the skin removed, anywhere from 1-3 lbs depending on how much chashu you want, and sear all sides in an oven safe pan, like enameled cast iron, over medium heat, around 5 minutes a side.",
+        "When golden brown, add the sake to deglaze, scraping the bottom of the pan. Add in the soy sauce, usukuchi soy sauce, mirin, water, and the brown sugar. You can also add a few garlic cloves, slices of ginger, or green onion ends, if you like.",
+        "Bring the liquid to a boil, cover, and transfer to the oven. Cook, turning every hour or so, for anywhere between 2-4 hours, or until the pork feels pillowy. Internal temp is around 201 degrees F, though it can vary. \n\nFeel is your best guess here.",
+        "Remove the pork from the oven, allow to cool to room temp, then place in the fridge, submerged in the cooking liquid, and allow to chill for at least 4 hours to promote easy slicing."
+      ],
+      "description": "",
+      "ingredients": [
+        "pork belly with the skin removed",
+        "1/4 cup sake",
+        "1/4 cup soy sauce",
+        "1/4 cup usukuchi soy sauce",
+        "1/2 cup mirin",
+        "1 cup water",
+        "2 tbs brown sugar"
+      ]
+    },
+    {
+      "name": "Egg",
+      "description": "",
+      "ingredients": [
+        "Eggs",
+        "chashu braising liquid",
+        "Mirin",
+        "Water",
+        "Soy sauce"
+      ],
+      "steps": [
+        "Bring a large pot of water to a boil.",
+        "Add your eggs, cooking for 6 min 30 seconds at a rolling boil.",
+        "Remove the eggs from the water, immediately shock in ice water and reserve to cool completely, around 15 minutes.",
+        "Crack, and peel the eggs, transfering to a zip lock or tupperware.",
+        "Add in mirin, soy sauce, water, and chashu braising liquid if you like, to taste (I do probably the same ratio as the chashu liquid, but personal preference rules here)."
+      ]
+    },
+    {
+      "name": "Assembly",
+      "description": "I get asked for specific amounts when adding tare to stock, so here's the full process. Generally a good ratio of tare to soup is around 1:10 (so for 300 ml soup, add 30 ml tare), but it can vary by tare and depends on your taste. Just eyeball it, you can always add more to the soup later.\n\nFor one bowl:",
+      "ingredients": [
+        "360 ml soup",
+        "40 ml tare",
+        "1 tbsp aroma oil",
+        "150 g noodles",
+        "Toppings as liked"
+      ],
+      "steps": [
+        "In your serving bowl, add the tare, aroma oil, and hot (just under boil is ideal) soup. Ideally in that order, as the cascading soup will help evenly disperse the aroma oil.",
+        "Cook your noodles in boiling water to just shy of done, stirring frequently to prevent sticking.",
+        "Strain the noodles thoroughly, then add to your bowl.",
+        "Swish the noodles in the broth to let them float freely in the soup. Don't want anything clinging to itself!",
+        "Add toppings and additional chicken fat as desired.",
+        "*Slurp. Love life. Feel your body succumb to chicken glory.*"
+      ]
+    }
+  ],
+  "images": [
+    "https://i.imgur.com/jigB2xW.jpg",
+    "https://i.imgur.com/iPQdKOC.jpg",
+    "https://i.imgur.com/pp9jwTz.jpg",
+    "https://i.imgur.com/2GDQm5f.jpg",
+    "https://i.imgur.com/n9lGQB1.jpg",
+    "https://i.imgur.com/exPuq0R.jpg",
+    "https://i.imgur.com/ZfmqDJR.jpg"
+  ]
+}
