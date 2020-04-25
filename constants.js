@@ -1,6 +1,6 @@
 export const REDDIT_URL = 'https://www.reddit.com/r/ramen/';
 export const AUTHOR_URL = 'https://github.com/jca41';
-export const ISSUES_URL = 'https://github.com/jca41/next-rl-recipes/issues';
+export const REPO_URL = 'https://github.com/jca41/rramen';
 export const ROUTES = {
   home: {
     label: 'Home',

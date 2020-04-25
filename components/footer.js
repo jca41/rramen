@@ -1,5 +1,5 @@
 import { Layout, Divider } from 'antd';
-import { AUTHOR_URL, ISSUES_URL } from '../constants';
+import { AUTHOR_URL, REPO_URL } from '../constants';
 
 const { Footer: AntFooter } = Layout;
 
@@ -15,12 +15,10 @@ const Footer = () => {
         </span>
 
         <Divider type={'vertical'} />
-        <span>
-          Feedback welcome on{' '}
-          <a href={ISSUES_URL} target={'_blank'} rel="noopener noreferrer">
-            {'Github'}
-          </a>
-        </span>
+
+        <a href={REPO_URL} target={'_blank'} rel="noopener noreferrer">
+          {'Github repository'}
+        </a>
       </div>
       <div>
         <span style={{ fontSize: '12px' }}>
