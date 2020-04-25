@@ -1,0 +1,112 @@
+{
+  "date": "2020-04-25T20:03:55.006Z",
+  "title": "Tokyo-style Shoyu Ramen",
+  "author": "Ramen_Lord",
+  "originalRecipe": "https://www.reddit.com/r/ramen/comments/2w6ubu/an_update_to_my_homemade_tokyostyle_shoyu_ramen/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage",
+  "intro": "My shoyu ramen recipe needed a more concise, intelligent write up. I've also improved my technique I think, so I wanted to keep things current.\n\n***So... here it is!***\n\nI’ve made some modifications since last year: the broth in the current version is all chicken and fish, and the tare for this one is different (intentionally!) from my tonkotsu tare. Feel free to play around with these items, I think in general the key steps are similar overall. Clear stock + deep soy sauce flavoring = glorious bowl of ramen.",
+  "images": [
+    "https://i.imgur.com/efiLrzx.jpg",
+    "https://i.imgur.com/G4SlcZs.jpg",
+    "https://i.imgur.com/yk1AlaG.jpg",
+    "https://i.imgur.com/KDI2QqC.jpg",
+    "https://i.imgur.com/z25UZ9e.jpg"
+  ],
+  "components": [
+    {
+      "name": "Broth",
+      "description": "This one is chicken and fish only. The body is really light but this is a good basis to start from. Again, Ivan’s temp and strange multi-step cooking method of the chicken results in a superbly clear stock, so I’m on board.\n\nHowever, I'm not necessarily strict on the temps here (you can get above 190 without issue). Regardless, keep your broth free of rapid boil; the less the contents of the pot move, the better your clarity will be.",
+      "ingredients": [
+        "1 stewing hen, broken down 6 lbs total",
+        "2 lbs chicken feet",
+        "One onion",
+        "10 cloves garlic",
+        "1 2-inch piece ginger.",
+        "5 squares kombu",
+        "1 cup iriko niboshi",
+        "1 and ½ cups bonito flake."
+      ],
+      "steps": [
+        "Blanch the chicken feet for 5 minutes in water. Strain, and snip off toenails.",
+        "Add the chicken to a stock pot, cover with water.",
+        "Bring the stock up to 176 on high heat. Hold here for one hour",
+        "Bring the stock up to a boil briefly, skim any scum. Hold here for 5-10 minutes, or until scum subsides.",
+        "Reduce heat back down to 176, hold for a minimum of 5 hours.",
+        "After hitting 176, add your onion, garlic, and ginger. It’s going to perfume the fat that renders out of the chicken. It’s awesome.",
+        "In the last hour add niboshi and kombu. Remove kombu in 10 min, keep niboshi for 30 min to 1 hour.",
+        "In the last 10 minutes, add the bonito flake and steep. 9 Strain the stock and hold until needed."
+      ]
+    },
+    {
+      "name": "Tare",
+      "description": "This is a combination of several methods I’ve found. This method does differ from the tare used in my tonkotsu recipe, since I want the soy flavor here to be much more predominant. \n\nBig ups to Ivan Orkin for the temp recommendation, which bleeds into the method a lot here. I've found it helped with some minor bitter flavors I experienced in previous renditions, so I'm definitely a fan of temperature control here, but I do have my own little tricks too!\n\nI add maybe 2-3 tbsp per bowl, though it’s really up to you and depends on your broth level.",
+      "ingredients": [
+        "5-7 3 in by 3 in squares kombu",
+        "2 cups soy sauce (I use a combo of good ol Kikkoman and other variants, though dark, full salt soy sauce is most important)",
+        "¾ cup iriko niboshi",
+        "1 cup bonito flakes, lightly packed",
+        "3 tbsp mirin",
+        "1 tbsp brown sugar"
+      ],
+      "steps": [
+        "The day before, soak the squares of kombu in your soy sauce overnight. This is the base, and we extract a lot of flavor here.",
+        "The day of, take your niboshi and saute them in a bit of neutral oil on high heat until fragrant in a sauce pan, about 40 seconds to a minute. We’re doing maillard stuff here, so a little brown is good.",
+        "Add your kombu and soy sauce, and bring to 176 F. At 176, discard the kombu.",
+        "Hold the mixture at 176 for 10 minutes.",
+        "Add the bonito and continue to steep for 5 more minutes.",
+        "Strain out the solids and reserve the soy base into a separate vessel.",
+        "Clean the pan, add the sake, mirin, and sugar, and cook on medium high heat until the smell of alcohol is gone, around 5-10 minutes.",
+        "Add the strained soy base, and cook over low heat until reduced to your salinity liking. You can use it right away, but I like to reduce it somewhat to keep things compact."
+      ]
+    },
+    {
+      "name": "Noodles",
+      "description": "Noodles are Tokyo style, less chewy or alkaline than their Sapporo counterparts. Slightly lower hydration, protein, and alkalinity than the standard recipe, but similar method overall.\n\nPer portion: *measure everything by weight.*",
+      "ingredients": [
+        "99g King Arthur bread flour (12.7% protein by weight)",
+        "1 g vital wheat gluten (aprox 77.5% protein by weight)",
+        "40 g water",
+        "1 g salt",
+        "1 g baked soda",
+        "Optional: 1 g Riboflavin (this adds color, I usually estimate it)"
+      ],
+      "steps": [
+        "Add baked soda and salt (and riboflavin if using) to the water, dissolve completely. I like to add one at a time, it seems like the baked soda dissolves better if added prior to the salt.",
+        "In the food processor, add your wheat gluten and flour. Pulse a few times to combine the two.",
+        "While running the food processor, add your water mixture slowly, in an even stream. Occasionally, stop to scrape the sides down. You know you're set when you have tiny grain like pieces.",
+        "Cover the food processor and let this rest for 30 minutes. This gives the flour granules time to fully absorb the water and alkaline salts.",
+        "Knead it. Currently I use an electric pasta machine to sheet the dough, going through the largest setting, then the 2nd, then the 3rd, then folding and repassing through the largest setting. \n\nI repass two to three times, or until I notice the dough is making the machine work really hard. I also like to fold the dough the same direction each time. Some articles I read suggested this kept the gluten strands running in the same direction, which promotes better texture. \n\nYou'll notice interesting horizontal lines running along the length of your dough if you do it right. If this isn’t an option for you, I used to throw the mix into a plastic bag and step on it repeatedly, which simulates the kneading process used in an industrial setting.",
+        "When smooth, cover with plastic, and rest at room temp for an hour. This gives the gluten time to relax, and “ripens” the dough according to Japanese cooks.",
+        "Pull out your dough. Portion into workable sizes (around one serving's worth), and roll out to desired thickness, using potato starch as you go to prevent sticking. Do this with a pasta machine, it is borderline impossible without a machine. An electric one will save you an incredible amount of effort.",
+        "Cut your noodles to your desired thickness. *You rule your ramen.*",
+        "Take a handful of finished noodles and squeeze the noodles together into a tight ball, like a snowball, then shimmy them around to create the classic wavy effect. Repeat until crinkled to your liking.",
+        "Ideally you should make these noodles in advance, they’re really nice after about a day in the fridge. They firm up a bit, and most recipes for noodles online discuss this resting phase prior to use. The general rule for this cure is that the higher the hydration, the longer the wait."
+      ]
+    },
+    {
+      "name": "Aroma oil",
+      "description": "Aroma oil for this pass is easy.\n\nChicken fat stays liquid at a slightly lower temp than lard, and tends to be looser overall, so it’s quite easy to work with. If you can’t find/render your own chicken fat, veg oil is a fine substitute, though you will miss out on some complexity.",
+      "ingredients": [
+        "Rendered chicken fat",
+        "2 cloves of garlic",
+        "green onion"
+      ],
+      "steps": [
+        "Cook over low heat until slightly brown, anywhere from 15-30 minutes.",
+        "Strain, and add to the bottom of your bowl with the tare."
+      ]
+    },
+    {
+      "name": "Toppings",
+      "description": "Menma are store bought. You can used canned I guess but… it’s really not the same. I avoid menma almost entirely unless I can find them premade. Even most shops don’t make their own.",
+      "ingredients": [
+        "Chashu",
+        "Menma",
+        "Egg"
+      ],
+      "steps": [
+        "For the chashu, sear, braise at 225 in 2 parts soy, 1 part mirin, 1 part sake, and a pinch of sugar, until tender, around 2-3 hours.",
+        "Egg: boil for 6 min 30 seconds, shock in ice water. Peel. Soak in soy, mirin, stock, sake if you like, for 4-6 hours."
+      ]
+    }
+  ]
+}
