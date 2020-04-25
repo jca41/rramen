@@ -29,7 +29,7 @@ collections:
         collection: author
         searchFields: [name]
         displayFields: [name]
-        valueField: slug
+        valueField: name
       - { label: Original Recipe, name: originalRecipe, widget: string }
       - { label: Publish Date, name: date, widget: datetime }
       - { label: Intro, name: intro, widget: markdown }

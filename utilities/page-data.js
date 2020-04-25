@@ -21,7 +21,7 @@ export const getRecipeData = (location) => {
   const filename = location.includes('.json') ? location : `${location}.json`;
   const recipe = getFileData(`/data/recipes/${filename}`);
 
-  return { ...recipe, author: recipe.author ? getFileData(`/data/authors/${recipe.author}.json`) : {} };
+  return { ...recipe, author: recipe.author ? getFileData(`/data/authors/${recipe.author.toLowerCase()}.json`) : {} };
 };
 
 export const withoutExt = (filename) => filename.replace('.json', '');
