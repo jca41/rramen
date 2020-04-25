@@ -1,0 +1,58 @@
+{
+  "date": "2020-04-25T20:03:55.006Z",
+  "title": "Tokyo-style Shoyu Ramen",
+  "author": "Ramen_Lord",
+  "originalRecipe": "https://www.reddit.com/r/ramen/comments/2w6ubu/an_update_to_my_homemade_tokyostyle_shoyu_ramen/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage",
+  "intro": "My shoyu ramen recipe needed a more concise, intelligent write up. I've also improved my technique I think, so I wanted to keep things current.\n\nSo... here it is!\n\nI’ve made some modifications since last year: the broth in the current version is all chicken and fish, and the tare for this one is different (intentionally!) from my tonkotsu tare. Feel free to play around with these items, I think in general the key steps are similar overall. Clear stock + deep soy sauce flavoring = glorious bowl of ramen.",
+  "images": [
+    "https://i.imgur.com/efiLrzx.jpg",
+    "https://i.imgur.com/G4SlcZs.jpg",
+    "https://i.imgur.com/yk1AlaG.jpg",
+    "https://i.imgur.com/KDI2QqC.jpg",
+    "https://i.imgur.com/z25UZ9e.jpg"
+  ],
+  "components": [
+    {
+      "name": "Broth",
+      "description": "This one is chicken and fish only. The body is really light but this is a good basis to start from. Again, Ivan’s temp and strange multi-step cooking method of the chicken results in a superbly clear stock, so I’m on board.\n\nHowever, I'm not necessarily strict on the temps here (you can get above 190 without issue). Regardless, keep your broth free of rapid boil; the less the contents of the pot move, the better your clarity will be.",
+      "ingredients": [
+        "1 stewing hen, broken down 6 lbs total",
+        "2 lbs chicken feet",
+        "One onion",
+        "10 cloves garlic",
+        "1 2-inch piece ginger.",
+        "5 squares kombu",
+        "1 cup iriko niboshi",
+        "1 and ½ cups bonito flake."
+      ],
+      "steps": [
+        "Blanch the chicken feet for 5 minutes in water. Strain, and snip off toenails.",
+        "Add the chicken to a stock pot, cover with water.",
+        "Bring the stock up to 176 on high heat. Hold here for one hour",
+        "Bring the stock up to a boil briefly, skim any scum. Hold here for 5-10 minutes, or until scum subsides.",
+        "Reduce heat back down to 176, hold for a minimum of 5 hours.",
+        "After hitting 176, add your onion, garlic, and ginger. It’s going to perfume the fat that renders out of the chicken. It’s awesome.",
+        "In the last hour add niboshi and kombu. Remove kombu in 10 min, keep niboshi for 30 min to 1 hour.",
+        "In the last 10 minutes, add the bonito flake and steep. 9 Strain the stock and hold until needed."
+      ]
+    },
+    {
+      "name": "Tare",
+      "description": "This is a combination of several methods I’ve found. This method does differ from the tare used in my tonkotsu recipe, since I want the soy flavor here to be much more predominant. \n\nBig ups to Ivan Orkin for the temp recommendation, which bleeds into the method a lot here. I've found it helped with some minor bitter flavors I experienced in previous renditions, so I'm definitely a fan of temperature control here, but I do have my own little tricks too!\n\nI add maybe 2-3 tbsp per bowl, though it’s really up to you and depends on your broth level.",
+      "ingredients": [
+        "5-7 3 in by 3 in squares kombu",
+        "2 cups soy sauce (I use a combo of good ol Kikkoman and other variants, though dark, full salt soy sauce is most important)",
+        "¾ cup iriko niboshi",
+        "1 cup bonito flakes, lightly packed",
+        "3 tbsp mirin",
+        "1 tbsp brown sugar"
+      ],
+      "steps": [
+        "The day before, soak the squares of kombu in your soy sauce overnight. This is the base, and we extract a lot of flavor here.",
+        "The day of, take your niboshi and saute them in a bit of neutral oil on high heat until fragrant in a sauce pan, about 40 seconds to a minute. We’re doing maillard stuff here, so a little brown is good.",
+        "Add your kombu and soy sauce, and bring to 176 F. At 176, discard the kombu.",
+        "Hold the mixture at 176 for 10 minutes."
+      ]
+    }
+  ]
+}
