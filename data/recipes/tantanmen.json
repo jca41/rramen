@@ -1,0 +1,158 @@
+{
+  "date": "2020-05-01T10:23:11.418Z",
+  "title": "Tantanmen",
+  "author": "Ramen_Lord",
+  "originalRecipe": "https://www.reddit.com/r/ramen/comments/5aitl1/fresh_you_guys_asked_for_it_so_here_it_is/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage",
+  "intro": "Based on dan dan noodles from China, **tantanmen** is an interesting variant of ramen, in that it borrows even more chinese influence than your standard ramen styles. There are a number of variations on tantanmen as a result, but at its most primary form, the dish consists typically of a light, clear broth, with sesame paste, vinegar, soy sauce, and then sometimes szechuan pickles or rice wine. Chili oil is used as an accent on top to provide color and flavor. Topped with soboro, bok choy, and onion, it’s got some heat, some intense flavors, and some visual flair.\n\nThere are some problems to me with this approach. For one, chili oil is not usually that spicy in the context of things, and it coats the palate without introducing flavor to the broth directly. I wanted to add heat throughout the dish, so this version also includes a dry spice blend you add to the bottom of the bowl, in addition to the chili aroma oil. Next, the sesame flavor is often overwhelming. To get the creamy consistency of a tantanmen with a subtle, more balanced sesame flavor, I opted for a Paitan base, which emulsifies animal fat into the broth, creating some opacity that can be used instead of sesame. From there, it’s all a matter of preference.\n\nOther changes from previous recipes are in the noodles and chashu/egg below. Scroll down for more.\n\nThere are a lot of components to do this dish. But go slowly (actually, some of these components are BEST done in advance, particularly toppings, noodles, and oils/seasonings). And ramen glory will be yours.",
+  "components": [
+    {
+      "name": "Soup",
+      "description": "Since this is a tori paitan base, it uses the same standard recipe as my previous technique, just not using carrots in this pass.",
+      "ingredients": [
+        "4 lbs chicken backs or one whole chicken, broken down into sections",
+        "2-3 lbs chicken wings (around 6 wings total)",
+        "2-3 lbs chicken feet, toes removed",
+        "1 onion",
+        "White ends from two bunches of green onions",
+        "A 2 inch piece of ginger",
+        "10 garlic cloves"
+      ],
+      "steps": [
+        "Two hours prior to cooking, soak the chicken parts in cold water. This helps remove some of the myoglobin, though chicken tends to have less than pork. Soak for two hours.",
+        "Drain the water, place the chicken parts into a stock pot, cover with water by two inches.",
+        "Place on the stove over high heat, bring to a boil",
+        "Skim the scum that comes to the surface until little to no scum rises, around 15 min of skimming",
+        "Cover, cook on medium high heat, making sure the pot is boiling rapidly, around 6 hours. Refill with water as needed, and stir occasionally to avoid the debris scorching on the bottom.",
+        "One hour before completion (at least 6 hours later, I went 8), remove the lid, add aromatics, and boil uncovered for 1 hour. The broth should barely be covering the bones by the time this boiling process is done. If not, continue to boil on high heat until reduced appropriately.",
+        "Strain the broth and reserve as needed. You can optionally at this point insert an immersion blender to whip things up and help the emulsification further."
+      ]
+    },
+    {
+      "name": "Tare",
+      "description": "Tare is sort of a misnomer in this dish. It’s actually just some stuff you throw into the bottom of your bowl, along with around 300 ml of broth. You can make it in big batches if you’d like, but it’s dead simple.\n\nThat’s it. No miso, mirin, or anything else. Sesame is the main focus and fish is not a component here. Some recipes add in rice wine or szechuan pickles. Feel free to do so if you dig that, but I keep it simple here, because of the next component",
+      "ingredients": [
+        "1 tbps tahini paste",
+        "2 tsp soy sauce",
+        "1 tsp rice wine vinegar (you can also sub some of this out for chinese black vinegar)."
+      ],
+      "steps": []
+    },
+    {
+      "name": "Spice blend",
+      "description": "Spice is an integral part of tantanmen, it’s spicy after all. To layer the flavor, I add it in two phases. The first is the spice blend, which consists of fresh ground spices.\n\nTo a bowl, you’ll add around *1-2 tsp* of the spice blend, depending on your heat tolerance.",
+      "ingredients": [
+        "8 dried chinese chilies, whole.",
+        "2 tbsp togarashi",
+        "1 tbsp whole szechuan peppercorns",
+        "Optional: 2 tsp white peppercorns"
+      ],
+      "steps": [
+        "In a spice mill, blend the above ingredients one by one. Combine in a small bowl. Reserve until needed."
+      ]
+    },
+    {
+      "name": "Aroma oil",
+      "description": "Chili oil is actually dead simple. I cook mine, you don’t necessarily have to, but I also like to add aromatics to play on the aroma oil concept, and that sort of keeps things safe. You can use whatever fat you like, I use duck or chicken fat and vegetable oil, but you can use whatever you have on hand provided it’s neutral in flavor. \n\nNote that this in large quantities will form a skin on the top of your ramen if you use animal fat, so sometimes vegetable fat is beneficial.",
+      "ingredients": [
+        "3 tbsp coarsely ground togarashi",
+        "4 dried Chinese chilis",
+        "1 tsp szechuan peppercorns",
+        "8 cloves garlic",
+        "1 2-inch piece of ginger, sliced",
+        "½ a small onion",
+        "1 cup fat of choice"
+      ],
+      "steps": [
+        "Combine the ingredients in a saucepan",
+        "Cook over low medium heat, making sure the ingredients are only sizzling slightly, until the oil turns a nice bright red color, anywhere from 15-30 minutes.",
+        "Strain and reserve in the fridge until needed."
+      ]
+    },
+    {
+      "name": "Noodles",
+      "description": "The noodles for this one are essentially tokyo style, semi-wavy. There have been a lot of changes to my noodle method, and i think these noodles are STELLAR. But they require some work and odd ingredients. These include egg white powder, which promotes translucency and chew without making the dough harder to nead. \n\nEgg proteins don’t denature until being cooked or heavily beaten, which means they don’t get stretchy necessarily when raw, unlike gluten. Using them in powder form is more accurate, but you can use normal egg, you’ll just need to reduce the water content.\n\nThe method itself can be used for almost any ratio of flour/water/egg/kansui etc, but below is my standard Tokyo one I’ve been using over the last few months.\n\nPer portion: *measure everything by weight*",
+      "ingredients": [
+        "99g King Arthur bread flour (12.7% protein by weight)",
+        "1 g vital wheat gluten (aprox 77.5% protein by weight)",
+        "1 g egg white powder",
+        "38 g water",
+        "1 g salt",
+        "1.2 g baked soda or powdered kansui (For me, I use 20% Potassium carbonate and 80% sodium carbonate, aka baked soda, here. But all baked soda will work quite well)",
+        "Optional: Pinch of Riboflavin (a literal pinch, less than .01 gram is all that’s required)"
+      ],
+      "steps": [
+        "Add kansui powder and salt (and riboflavin if using) to the water, dissolve completely. I like to add one at a time, these alkaline salts actually release a small amount of heat when hitting the water and will form small chemical bonds to themselves if not added gradually, which results in it clumping up. \n\nGo slowly, stir constantly until clear. This will take awhile, but eventually things will work out.",
+        "In a standing mixer with a paddle attachment, add your flour, wheat gluten, and egg white powder. Turn the mixer to “stir” and run for 30 seconds.",
+        "While running the mixer on stir, add two thirds of your water mixture slowly, in an even stream. Let the mixer stir for 3 minutes.",
+        "Add in the remaining water mixture with the mixer running, run for another minute, until small clumps begin to form.",
+        "Remove the bowl from the mixer. Cover, and let this rest for 30 minutes. This gives the flour granules time to fully absorb the water and alkaline salts, rests some gluten (which, believe it or not, you developed while mixing this dough) and allows some trapped air in the dough balls to escape, which is called “degassing.” An air free starch gel results in better texture. \n\n*Don’t skip this.*",
+        "Knead it. The hardest part of noodles, hands down. Currently I use an electric pasta machine to sheet the dough, going through the largest setting, then the 2nd, then the 3rd. I then take the dough and fold it, sheeting under the 2nd widest setting, then fold it again and sheet it under the widest setting. I then repeat this again, until the sheet is quite smooth and not ragged. \n\nYou'll notice interesting horizontal lines running along the length of your dough if you do the folding right, suggesting your gluten strands are running the length of your dough. This is good, it will help with texture of the noodle. If sheeting with a machine isn’t an option for you, I used to throw the mix into a plastic bag and step on it repeatedly.",
+        "After kneading, cover with plastic, and rest at room temp for another 30 minutes. This gives the gluten time to relax.",
+        "Pull out your dough. Portion into workable sizes, and roll out to desired thickness, using potato or cornstarch as you go to prevent sticking. Do this with a pasta machine, it is borderline impossible without a machine. An electric one will save you an incredible amount of effort.",
+        "Cut your noodles to your desired thickness.",
+        "Place in the fridge and allow to rest for at least a day, but preferably at least two. In this image they had rested 5 days, and they were superb. \n\nThis final resting phase ensures even hydration and helps make an even starch gel, promoting better texture. Enzymatic activity in the flour also helps build flavor, and the alkaline flavor of the dough subsides somewhat."
+      ]
+    },
+    {
+      "name": "Topping: Chashu",
+      "description": "This is a big one. I sous vide my chashu. “Aghhh Ramen_Lord you hipster! WTF??”\n\nHear me out. Using sous vide makes this so stress free. Pork belly is of course, very easy to cook, and you can braise it if you don't have a sous vide rig, but I love the flexibility I get from this method. You can add garlic or ginger or green onion to the bag, but I keep it mad simple.",
+      "ingredients": [
+        "Pork belly",
+        "½ cup mirin",
+        "½ cup soy sauce",
+        "1 cup water",
+        "1 tbsp brown sugar",
+        "¼ cup sake"
+      ],
+      "steps": [
+        "Preheat the waterbath to 154F.",
+        "Sear the pork belly on all sides in a pan until golden brown, then place in vacuum bag.",
+        "Deglaze the pan with the remaining ingredients, then reserve this liquid and allow to cool.",
+        "When liquid has cooled, add it to the bag with the pork.",
+        "Cook the pork belly sous vide for at least 24 hours, but up to 36 hours. You do NOT have to vacuum seal this, just use the water displacement method to remove excess air, and clamp the edge of the bag to the pot or vessel you’re sous-viding in.",
+        "Remove from the bath, and shock in ice water to chill quickly. Reserve in the fridge if needed."
+      ]
+    },
+    {
+      "name": "Topping: Egg",
+      "description": "My egg is also *BRAND NEW*. It uses a technique called equilibrium brining, which treats the brine as the general flavor you want your brined item to be, not more or less. \n\nThough typically used for meat, it works excellently in this application. Through gentle osmosis, the eggs and brine reach equilibrium, where they both have the same salinity and flavoring. This method essentially takes the guess work out of the job in terms of when to pull the eggs, and creates a consistent, edge to edge seasoned egg with no grainy yolks. \n\nIt’s dead simple, you just need a scale and patience. But these eggs will be perfect anywhere from 2 to 6 days after putting in the brine with no loss in quality.",
+      "ingredients": [
+        "Eggs",
+        "Water",
+        "Soy Sauce",
+        "Mirin"
+      ],
+      "steps": [
+        "Bring a large pot of water to a boil.",
+        "Add your eggs from the fridge, cooking for 6 min 30 seconds at a rolling boil.",
+        "Remove the eggs from the water, immediately shock in ice water and reserve to cool completely, around 15 minutes.",
+        "Crack, and peel the eggs.",
+        "In a container you plan on soaking the eggs in, weigh your eggs. Add water to cover completely, and record the total weight of the eggs and water. \n\n(So, for instance, if I have 3 cooked and peeled eggs that weigh 150 grams, and i cover them completely with 350 grams of water, i’d have 500 grams total).",
+        "Add in 10% of this weight in soy sauce and mirin. So, if in the example above, since your eggs and water weighed 500 grams, you’d add in 50 grams soy sauce, and 50 grams mirin.",
+        "Soak in the fridge for at least 2 days, and reserve in the brine until needed."
+      ]
+    },
+    {
+      "name": "Topping: Pork soboro",
+      "description": "That dark brown ground pork? It’s mega easy. This one uses sweet bean paste, but miso is fine, or you can ommit it entirely.",
+      "ingredients": [
+        "1 tsp vegetable oil",
+        "½ white onion, diced fine",
+        "1 lb ground pork",
+        "2 cloves garlic, minced",
+        "2 coins of ginger, minced",
+        "2 tbsp soy sauce",
+        "3 tbsp sweet bean paste",
+        "1 tbsp mirin",
+        "1 tbsp sake",
+        "Salt to taste"
+      ],
+      "steps": [
+        "In a saute pan, sweat the onion over medium heat in the oil until translucent, 3-5 minutes.",
+        "Increase the heat to high, and add in the pork. Cook, stirring and breaking up clumps, until starting to brown.",
+        "Add in the garlic and ginger, cook until fragrant, around 1 minute",
+        "Add in remaining ingredients. Cook until the pork is glossy, fully cooked, and flavorful. Adjust seasonings as necessary."
+      ]
+    }
+  ]
+}
