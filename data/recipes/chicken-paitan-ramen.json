@@ -1,0 +1,147 @@
+{
+  "date": "2020-05-01T11:05:14.166Z",
+  "title": "Chicken Paitan Ramen",
+  "author": "Ramen_Lord",
+  "originalRecipe": "https://www.reddit.com/r/ramen/comments/3i3afd/next_up_on_my_tour_of_ramen_styles_chicken_paitan/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage",
+  "intro": "I feel like Tonkotsu is the most popular style in the States. Everyone loves the creamy consistency, the richness, the full, meaty, satisfying flavor. It’s like drinking cream.\n\nBut what if I told you that you could make an awesome, and similar, version with chicken, in just 6 hours, instead of the [](https://www.reddit.com/r/ramen/comments/2l2eas/here_it_is_the_granddaddy_of_them_all_homemade_18/)*18 hours recommend*for tonkotsu?\n\nEnter Tori Paitan. Chicken Paitan, Tonkotsu’s neglected cousin. It uses very similar technique as tonkotsu, but only uses chicken bones to create some delicious, creamy goodness.\n\nI’ll be honest, this recipe ranks right up there with one of my favorites. Maybe just below miso (because I have a miso bias and miso is my obsessive favorite). But it is highly reminiscent of Santouka, who uses a good amount of chicken in their tonkotsu. It hits those right notes. It’s lighter than tonkotsu but just as satisfying and creamy.\n\nDid I mention it’s easier? It’s also more approachable for the american palate than a tonkotsu funk bomb. SWEET.",
+  "components": [
+    {
+      "name": "Soup",
+      "description": "Tori Paitan uses the same broad technique as tonkotsu, but due to the lower density of the bones and more accessible fat and gelatin content, requires less time to complete.\n\nTakes around 10 hours in total.",
+      "ingredients": [
+        "4 lbs chicken backs or one whole chicken, broken down into sections",
+        "2-3 lbs chicken wings (around 6 wings total)",
+        "2-3 lbs chicken feet, toes removed",
+        "1 carrot",
+        "1 onion",
+        "White ends from two bunches of green onions",
+        "A 2 inch piece of ginger",
+        "10 garlic cloves"
+      ],
+      "steps": [
+        "Two hours prior to cooking, soak the chicken parts in cold water. This helps remove some of the myoglobin, though chicken tends to have less than pork. Soak for two hours.",
+        "Drain the water, place the chicken parts into a stock pot, cover with water by two inches.",
+        "Place on the stove over high heat, bring to a boil",
+        "Skim the scum that comes to the surface until little to no scum rises, around 15 min of skimming",
+        "Cover, cook on medium high heat, making sure the pot is boiling rapidly, around 6 hours. Refill with water as needed, and stir occasionally to avoid the debris scorching on the bottom.",
+        "One hour before completion (at least 6 hours later, I went 8), remove the lid, add aromatics, and boil uncovered for 1 hour. The broth should barely be covering the bones by the time this boiling process is done. If not, continue to boil on high heat until reduced appropriately.",
+        "Strain the broth and reserve as needed. You can optionally at this point insert an immersion blender to whip things up and help the emulsification further."
+      ]
+    },
+    {
+      "name": "Tare",
+      "description": "The tare here is a mix between soy and shio. Some shio tares, paradoxically, are white soy sauce based. So… this is shio tare? I’m not sure to be honest, the goal was to get a little soy flavor with a little fish flavor, and not much color. You’ll recognize the overall technique from other recipes I’ve posted, simply the ingredients have changed slightly.\n\nMakes enough for easily 15-20 bowls, half this is necessary.",
+      "ingredients": [
+        "15 g Konbu",
+        "150 g mirin",
+        "100 g sake",
+        "50 g white wine",
+        "150 g white soy sauce",
+        "50 g usukuchi soy sauce",
+        "20 g salt",
+        "5 g MSG (optional)",
+        "50 grams niboshi",
+        "1 tbs sesame oil",
+        "300 ml water",
+        "two big handfuls of katsuobushi"
+      ],
+      "steps": [
+        "Soak the Kombu in the mirin, sake, and white wine, for at least 6 hours, in the fridge.",
+        "When ready to make, add the kombu and steeping liquid to a sauce pot. Cook on medium heat until the cooking liquid registers at 176 degrees. Hold here for 5 minutes",
+        "Remove the kombu, boil slightly to remove some residual alcohol, around 5 minutes.",
+        "Add the soy sauces and salts. Reserve this liquid on the side.",
+        "In the now empty pot, add the niboshi and sesame oil to a pot. Cook until fragrant on medium high heat, around 40 seconds.",
+        "Add the water, bring to 176 again.",
+        "Add the katsuobushi and steep for 10 minuites at 176 degrees.",
+        "Strain this liquid, adding it to the one in step 4.",
+        "Take the now strained liquids and reduce to your salinity liking (though for me this was about dead right)."
+      ]
+    },
+    {
+      "name": "Noodles",
+      "description": "I have a stupidly accurate gram scale (down to 1/10th a gram), so I played around with the proportions on the kansui (which I now have powdered sodium carbonate and potassium carbonate, the two salts that comprise Kansui). \n\nThis ratio worked awesomely, but feel free to follow the Tokyo standard of 1% as well. Pretty similar to that, with juuuust a hair more alkalinity and chew to hold up to the richness of the broth.\n\nPer portion: *measure everything by weight*",
+      "ingredients": [
+        "99g King Arthur bread flour (12.7% protein by weight)",
+        "1 g vital wheat gluten (aprox 77.5% protein by weight)",
+        "40 g water",
+        "1 g salt",
+        "1.2 g baked soda or powdered kansui",
+        "Optional: Pinch of Riboflavin (this adds color, I just estimate it. A little goes a LONG way)"
+      ],
+      "steps": [
+        "Add baked soda and salt (and riboflavin if using) to the water, dissolve completely. I like to add one at a time, it seems like the baked soda dissolves better if added prior to the salt.",
+        "In the food processor, add your wheat gluten and flour. Pulse a few times to combine the two.",
+        "While running the food processor, add your water mixture slowly, in an even stream. Occasionally, stop to scrape the sides down. You know you're set when you have tiny grain like pieces.",
+        "Cover the food processor and let this rest for 30 minutes. This gives the flour granules time to fully absorb the water and alkaline salts.",
+        "Knead it. Currently I use an electric pasta machine to sheet the dough, going through the largest setting, then the 2nd, then the 3rd, then folding and repassing through the largest setting. I repass two to three times, or until I notice the dough is making the machine work really hard. I also like to fold the dough the same direction each time. \n\nSome articles I read suggested this kept the gluten strands running in the same direction, which promotes better texture. You'll notice interesting horizontal lines running along the length of your dough if you do it right. \n\nIf this isn’t an option for you, I used to throw the mix into a plastic bag and step on it repeatedly, which simulates the kneading process used in an industrial setting.",
+        "When smooth, cover with plastic, and rest at room temp for an hour. This gives the gluten time to relax, and “ripens” the dough according to Japanese cooks.",
+        "Pull out your dough. Portion into workable sizes (around one serving's worth), and roll out to desired thickness, using potato or corn starch as you go to prevent sticking. Do this with a pasta machine, it is borderline impossible without a machine. An electric one will save you an incredible amount of effort.",
+        "Cut your noodles to your desired thickness. You rule your ramen.",
+        "Reserve in the fridge until needed. Like most ramen noodles, they get better after at least a day of resting in the fridge."
+      ]
+    },
+    {
+      "name": "Chashu",
+      "steps": [
+        "Preheat the oven to 225 F. Take a slab of pork belly with the skin removed, anywhere from 1-3 lbs depending on how much chashu you want, and sear all sides in an oven safe pan, like enameled cast iron, over medium heat, around 5 minutes a side. In this case, I rolled it because the slab was rather thin, though this is optional.",
+        "When golden brown, add 1/4 cup sake to deglaze, scraping the bottom of the pan. Add in 1/4 cup soy sauce, 1/4 cup usukuchi soy sauce, 1/2 cup mirin, 1 cup water, and 2 tbs brown sugar. You can also add a few garlic cloves, slices of ginger, or green onion ends, if you like.",
+        "Bring the liquid to a boil, cover, and transfer to the oven.",
+        "Cook, turning every hour or so, for anywhere between 2-4 hours, or until the pork feels pillowy. Internal temp is around 201 degrees F, though it can vary. Feel is your best guess here.",
+        "Remove the pork from the oven, allow to cool to room temp, then place in the fridge, submerged in the cooking liquid, and allow to chill for at least 4 hours to promote easy slicing."
+      ],
+      "ingredients": [
+        "Pork belly",
+        "1/4 cup sake",
+        "1/4 cup soy sauce",
+        "1/4 cup usukuchi soy sauce",
+        "1/2 cup mirin",
+        "1 cup water",
+        "2 tbs brown sugar",
+        "a few garlic cloves (optional)",
+        "slices of ginger (optional)",
+        "green onion ends (optional)"
+      ]
+    },
+    {
+      "name": "Egg",
+      "steps": [
+        "Bring a large pot of water to a boil.",
+        "Add your eggs, cooking for 6 min 30 seconds at a rolling boil.",
+        "Remove the eggs from the water, immediately shock in ice water and reserve to cool completely, around 15 minutes.",
+        "Crack, and peel the eggs, transferring to a ziplock or tupperware.",
+        "Add in mirin, soy sauce, water, and chashu braising liquid if you like, to taste."
+      ],
+      "ingredients": [
+        "Eggs",
+        "Mirin",
+        "Soy sauce",
+        "Water",
+        "chashu braising liquid (optional)"
+      ],
+      "description": "I make the steeping liquid with the same ratios as the chashu braising liquid, so half mirin and soy sauce in equal amounts, and half water"
+    },
+    {
+      "name": "Aroma Oil",
+      "description": "Take 1 cup chicken fat, add garlic, onion, and ginger, and cook in a small saucepan over medium low heat until just starting to brown, around 30 min."
+    },
+    {
+      "name": "Asembly",
+      "description": "I get asked for specific amounts when adding tare to stock, so here's the full process. Generally a good ratio of tare to soup is around 1:10 (so for 300 ml soup, add 30 ml tare), but it can vary by tare and depends on your taste. Just eyeball it, you can always add more to the soup later.\n\nFor one bowl:",
+      "ingredients": [
+        "360 ml soup",
+        "33 ml tare",
+        "1 tbsp aroma oil",
+        "150 g noodles",
+        "Toppings as liked"
+      ],
+      "steps": [
+        "In your serving bowl, add the tare, aroma oil, and hot (just under boil is ideal) soup. Ideally in that order, as the cascading soup will help evenly disperse the aroma oil.",
+        "Cook your noodles in boiling water to just shy of done, stirring frequently to prevent sticking. Usually less than 1 minute.",
+        "Strain the noodles thoroughly, then add to your bowl.",
+        "Swish the noodles in the broth to let them float freely in the soup. Don't want anything clinging to itself!",
+        "Add toppings and additional chicken fat as desired.",
+        "Slurp :P"
+      ]
+    }
+  ]
+}
