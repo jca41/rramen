@@ -8,16 +8,14 @@ const { TabPane } = Tabs;
 const TabContent = ({ ingredients = [], steps = [], description }) => (
   <Fragment>
     <ReactMarkdown source={description} />
-    {!!steps.length && !!ingredients.length && (
-      <Row gutter={[32, 0]}>
-        <Col span={24} md={{ span: 12 }}>
+    <Row gutter={[32, 0]}>
+        { !!ingredients.length && <Col span={24} md={{ span: 12 }}>
           <Ingredients data={ingredients} />
-        </Col>
-        <Col span={24} md={{ span: 12 }}>
+        </Col>}
+       {!!steps.length && <Col span={24} md={{ span: 12 }}>
           <Steps data={steps} />
-        </Col>
+        </Col>}
       </Row>
-    )}
   </Fragment>
 );
 
