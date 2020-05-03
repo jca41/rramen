@@ -102,6 +102,58 @@
         "Soak the cooked belly in the fridge until chilled thoroughly, then slice as needed as you like.",
         "Torch, steam, fry, whatever you want to reheat. You can use this tare for other stuff, like Jiro ramen."
       ]
+    },
+    {
+      "name": "Egg",
+      "description": "This is the same equilibrium brine egg technique I designed years ago.",
+      "ingredients": [
+        "Eggs",
+        "Water",
+        "Soy Sauce",
+        "Mirin"
+      ],
+      "steps": [
+        "Bring a pot of water to boil",
+        "When the water is boiling, remove the eggs from the fridge, and prick a small hole on the bottom of each egg with a thumbtack. You can also use the heel of your knife to make an indentation there, by gently tapping it repeatedly.",
+        "Add your eggs to the water, cook 7 minutes at full boil. Be sure to only add enough eggs that the water doesn’t lose temp too quickly. Do this in batches if necessary.",
+        "While the eggs cook, prepare an ice bath.",
+        "When the 7 minutes are up, remove the eggs and quickly place them in the ice bath to chill for at least 15 minutes",
+        "Peel your eggs. There’s loads of tricks here, I like to crack the exterior all over by gently tapping the eggs on a surface, then peeling from the bottom. Some folks soak in vinegar, some like to do this all under running water.",
+        "In a container, weigh out your peeled eggs and the weight of water to cover them. To this container, add 13% of this weight in soy sauce, and 10% this weight in mirin. So, as an example if my eggs and water covering them weighed 500 g, I’d add 65g soy sauce, and 50 g mirin.",
+        "Store in the fridge for at least 24 hours, but up to 3 days with no degradation in quality."
+      ]
+    },
+    {
+      "name": "Other toppings",
+      "description": "",
+      "ingredients": [
+        "Sliced green onion",
+        "Nori",
+        "Gyofun (Fish Powder)"
+      ]
+    },
+    {
+      "name": "Assembly",
+      "description": "Dip the cold noodles into the hot soup, get that temperature contrast. Texture contrast of grit, chew. It’s intense stuff. And it’s GOOD. Maybe it’s good because it’s such a pain in the ass. Maybe it’s good because there’s like 50 things going on. But it’s so good. If you can get the ingredients for it, it’s worth making.\n\nFor one bowl:",
+      "ingredients": [
+        "One large bowl for noodles",
+        "One small bowl for soup",
+        "200ml soup (3/4 cup)",
+        "30 ml tare (2 tbsp)",
+        "200 g noodles",
+        "1 tsp gyofun",
+        "Toppings as desired (yuzu is also used in the original recipe… go for it)."
+      ],
+      "steps": [
+        "Ensure all of your ingredients are ready. Green onions sliced, chashu sliced, and soups/tares are out with appropriate utensils. Ensure you have a small bowl for soup and a larger bowl for noodles and toppings.",
+        "Bring a large pot of water to a boil",
+        "In a saucepan, bring your soup to a simmer, and cover, keeping warm until needed.",
+        "Set your oven to 170F, and add your small soup bowl to the oven to preheat. When the oven hits 170, turn it off and let the residual heat warm the bowl through.",
+        "Add you noodles to the water, cook 7 minutes, swishing initially to prevent sticking.",
+        "While the noodles cook, heat the chashu. I like to torch it. You can steam it, sear it, microwave it, other ways too.",
+        "When the noodles are done after 7 minutes, strain well in a colander or fine mesh strainer, and rinse under cold water until chilled thoroughly. Arrange the noodles in the noodle bowl with the chashu, egg, and nori, and reserve until ready to eat.",
+        "Prepare the soup bowl. Add tare and soup to the hot bowl. Top with fish powder and green onion."
+      ]
     }
   ]
 }
