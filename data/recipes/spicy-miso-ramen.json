@@ -1,0 +1,164 @@
+{
+  "date": "2020-05-03T13:54:16.399Z",
+  "title": "Spicy Miso Ramen",
+  "author": "Ramen_Lord",
+  "originalRecipe": "https://www.reddit.com/r/ramen/comments/8s8sy0/fresh_yall_asked_and_its_finally_here_homemade/",
+  "intro": "Alright, I concede. Spicy ramen is popular in the states. Y’all asked for it, here it is. Spicy. Miso. That's. Right.\n\nNow, my day-ones (do I have those?) might know I actually wrote a spicy miso recipe [ages ago](https://www.reddit.com/r/ramen/comments/23fjc7/next_up_on_my_tour_of_ramen_styles_homemade_spicy/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage). But this is a much more established, thoughtful recipe. You’ll probably notice some heavy deviations.\n\nThe biggest change in the method is that I weigh most of my ingredients now, with the exception of small amounts, which just make sense to be in tablespoons and teaspoons. But, forreal, get a scale please. It’s going to help you tremendously, and will ensure a consistent product from batch to batch.\n\nThere are also some ingredient additions to the tare to increase the \"pepper\" flavor. I find a lot of spicy ramen is just hot without complexity or actual pepper flavor. I think this recipe alleviates that.\n\nNow, enough with the talk, let's do this.",
+  "components": [
+    {
+      "name": "Tare",
+      "description": "This stuff keeps months in the fridge. It’s better made a day or two in advance, so just let it hang out after you make it. It gets better over time.\n\nAs always, your boy has some miso secrets that I can’t divulge. Because miso ramen is my specialty and I can’t be revealing just everything. I know. I suck. But this is like… 99% of the way there.",
+      "ingredients": [
+        "1 red bell pepper, deseeded",
+        "2 habanero chillies, deseeded",
+        "¼ a large onion, pureed in a food processor",
+        "2 cloves of garlic, grated/minced",
+        "One 2 inch piece of ginger, grated/minced",
+        "560 g miso of various types (I like to blend white, red, and maybe a mugi or chunkier variant, though all white will work here)",
+        "10 g mirin",
+        "30 g soy sauce",
+        "5 g sesame oil",
+        "14 g tahini",
+        "8 g Tobanjan",
+        "60 g Gochujang",
+        "1/2 tsp smoked paprika (or more to taste)",
+        "1 tbsp togarashi (this is for flavor, we’re also adding spice to the bottom of the bowl)"
+      ],
+      "steps": [
+        "Blend the red bell pepper and deseeded habaneros in a food processor until fully pureed and liquidy.",
+        "Add this liquidy paste to a small saucepan or skillet, and cook over medium heat, until the majority of the water has evaporated and beginning to caramelize, around 10-15 minutes.",
+        "Add the contents from step 2 to a bowl. Combine with the remaining ingredients. Whisk fully to incorporate. Reserve indefinitely in fridge."
+      ]
+    },
+    {
+      "name": "Spice blend",
+      "description": "In addition to this tare, I like to add a dry spice blend to the bowl, which seems to amplify the heat. I add around 1-2 tsp depending on heat preferences of the following:",
+      "ingredients": [
+        "4 parts ground togarashi",
+        "1 part ground Sansho or szechuan peppercorn"
+      ]
+    },
+    {
+      "name": "Soup",
+      "description": "Probably the biggest learning in my quest for better and better miso is the reduction of gelatin content in the soup. My miso tare is just rich, and the gelatin from things like femurs or feet actually makes it overwhelming. So the below broth is beyond simple.\n\nI do mine in a pressure cooker too, which is ultra fast, just as flavorful, and provides good enough clarity that it’s worth the time savings. But steps for both are included.",
+      "ingredients": [
+        "4 lbs chicken backs, (you can sub in pork neck bones if you like the flavor, but I keep it all chicken)",
+        "1 onion, split in half and skin removed",
+        "1 head of garlic, cut in half to expose cloves"
+      ],
+      "steps": [
+        "Rinse the chicken backs (or other bones) with water. Usually these backs are kinda bloody and I find rinsing them helps with stock clarity and flavor.",
+        "Add the bones to a pot, cover with water by at least an inch.",
+        "Bring to a boil over high heat, and skim the scum that rises to the top. We’re looking for colored scum specifically, you may notice that there’s some white froth towards the end of this process. \n\nIf you stop boiling the broth and this froth subsides, don’t worry about skimming it; it’s just protein and fat being suspended together due to the rolling boil, and wont have an impact on your broth color or flavor.",
+        "When the colored scum stops rising, reduce the heat to low, maintaining sub-simmer (around 190F). Cook the broth at this temp for 5-6 hours (or if using a pressure cooker, hold for 45 min at high pressure)",
+        "Add in your onion and garlic. Cook for one additional hour below simmer (if using a pressure cooker, run under cold water to quickly depressurize, open the pot, and then add the onion/garlic, cooking uncovered for one hour).",
+        "Strain the soup, reserve as needed."
+      ]
+    },
+    {
+      "name": "Aroma Oil",
+      "description": "The aroma oil here is very literally the miso oil, spiked with chilis to bring heat and color. You’ll notice this is basically the same as the tantanmen one, with modified amounts. That’s just how my recipes go I’m afraid… I change them a lot.\n\nTogarashi is the main player in the color, though any ground chilis will work. This is not the same as chili powder, which often has garlic and onion added. But hey, feel free to experiment.",
+      "ingredients": [
+        "1 cup fat of choice (I typically use pork lard or chicken fat, though vegetable oil also works here)",
+        "8 cloves garlic",
+        "1 2-inch piece of ginger, sliced into ¼ inch coins",
+        "½ a small onion",
+        "3 tbsp ground togarashi",
+        "8 chinese chilis, whole",
+        "2 tsp szechuan peppercorns"
+      ],
+      "steps": [
+        "In a small saucepan, add the fat, garlic, ginger, and onion.",
+        "Turn on the burner and heat over medium to medium low heat, stirring occasionally, until the ingredients take on a light golden hue, and smell fragrant, around 15 minutes.",
+        "Add in your togarashi, chinese chilis, and szechuan peppercorns.",
+        "Remove the saucepan from the heat, and let the ingredients steep in this oil for 30 minutes.",
+        "Strain and transfer to a container. If not using immediately, store in the fridge."
+      ]
+    },
+    {
+      "name": "Noodles",
+      "description": "Oh man… have I learned a lot about noodles. To be honest, I am still working on noodles as of this writing (things like aging, kansui composition, etc). But the noodles below are the current Sapporo style I’ve been making. They’re real good, and with the relatively high water content, not too tough to roll out. \n\nNow, I am definitely not saying this is safe, but if you’re looking for intense glossiness and translucency in your noodle, like a real Sapporo noodle, replace 3g of your water with 5g of vodka. Continue with the recipe as outlined, but let the final noodles rest in a zip lock bag at room temperature for 2 days. The alcohol, salt, and alkalinity should, in theory, reduce water activity sufficiently to prevent pathogen growth. This room temp rest does crazy things for the translucency and texture of the noodle.\n\n But… I can’t really guarantee its safety. Someone mentioned botulism could grow in the interior of the noodle? Again, I’m working on this approach. It’s a weird one.\n\nPer portion:",
+      "ingredients": [
+        "98.5 g King Arthur bread flour",
+        "1.5 g vital wheat gluten",
+        "1 g egg white powder",
+        "39 g water",
+        "1 g salt",
+        "1.6 g baked soda, or powdered kansui (if using powdered kansui, use 1.3 g Sodium Carbonate, and 0.3 g Potassium Carbonate)",
+        "Optional: Pinch of Riboflavin (a literal pinch, less than .01 gram is all that’s required)"
+      ],
+      "steps": [
+        "Add kansui powder and salt to the water (and riboflavin if using), dissolve completely. If using both Sodium Carbonate and Potassium Carbonate, add them one at a time. Go slowly, stir constantly until clear. \n\nThis will take awhile, but eventually the contents will dissolve. You can do this days in advance to get a jumpstart, just hold the liquid in an airtight container.",
+        "In a standing mixer with a paddle attachment, add your flour, wheat gluten, and egg white powder, Turn the mixer to “stir” and run for 30 seconds to aerate the mix.",
+        "While running the mixer on stir, add two thirds of your water mixture slowly, in an even stream. Let the mixer stir the flour and water mixture for 3 minutes.",
+        "Add in the remaining water mixture with the mixer running, run for another minute, until small clumps begin to form.",
+        "Turn off the mixer, and add the mixture to a ziplock style bag. Close, and let this rest for 1-2 hours at room temperature. Don’t skip this.",
+        "Knead it, but using an electric pasta machine to sheet the dough, going through the largest setting, then the 2nd, then the 3rd. \n\nTake the dough and fold it, sheeting under the 2nd widest setting, then fold it again and sheet it under the widest setting. Repeat this again, until the sheet is quite smooth and not ragged.",
+        "After kneading, put the dough back in the plastic bag, and rest at room temp for another 30 minutes.",
+        "Pull out your dough. Portion into workable sizes, and roll out to desired thickness with the pasta machine, using potato or cornstarch as you go to prevent sticking.",
+        "Cut your noodles to your desired thickness.",
+        "Take the noodles and compress them together, sort of like making a snowball, then detangle them, to create a wavy, crinkled pattern.",
+        "Bundle the noodles into 140g portions, and place them, in the ziploc bag, in the fridge and allow to rest for at least two days."
+      ]
+    },
+    {
+      "name": "Chashu",
+      "description": "You can sous vide, braise it, whatever. It’s pork belly, it’s super forgiving. Below is the sous vide method, but I also braise the belly quite often.",
+      "ingredients": [
+        "Pork belly",
+        "½ cup mirin",
+        "½ cup soy sauce",
+        "1 cup water",
+        "1 tbsp brown sugar",
+        "¼ cup sake"
+      ],
+      "steps": [
+        "Preheat the waterbath to 174F.",
+        "Sear the pork belly on all sides in a pan until golden brown, then place in vacuum bag.",
+        "Deglaze the pan with the remaining ingredients, then reserve this liquid and allow to cool.",
+        "When liquid has cooled, add it to the bag with the pork.",
+        "Cook the pork belly sous vide for at least 7 hours, but up to 12. You do NOT have to vacuum seal this, just use the water displacement method to remove excess air, and clamp the edge of the bag to the pot or vessel you’re sous-viding in.",
+        "Remove from the bath, and shock in ice water to chill quickly. Reserve in the fridge until needed."
+      ]
+    },
+    {
+      "name": "Egg",
+      "description": "Here are the steps to my equilibrium brine technique, with some slight modifications. I cook mine for 7 minutes, but feel free to go longer or less. I’ve just found that 7 minutes is a bit easier to peel than 6:30, and the yolk has plenty of that delicious gooey texture.",
+      "ingredients": [
+        "Eggs",
+        "Water",
+        "Soy Sauce",
+        "Mirin"
+      ],
+      "steps": [
+        "Bring a pot of water to boil",
+        "When the water is boiling, remove the eggs from the fridge, and prick a small hole on the bottom of each egg with a thumbtack. You can also use the heel of your knife to make an indentation there, by gently tapping it repeatedly.",
+        "Add your eggs to the water, cook 7 minutes at full boil. Be sure to only add enough eggs that the water doesn’t lose temp too quickly. Do this in batches if necessary.",
+        "While the eggs cook, prepare an ice bath.",
+        "When the 7 minutes are up, remove the eggs and quickly place them in the ice bath to chill for at least 15 minutes",
+        "Peel your eggs. There’s loads of tricks here, I like to crack the exterior all over by gently tapping the eggs on a surface, then peeling from the bottom. Some folks soak in vinegar, some like to do this all under running water.",
+        "In a container, weigh out your peeled eggs and the weight of water to cover them. To this container, add 13% of this weight in soy sauce, and 10% this weight in mirin. So, as an example if my eggs and water covering them weighed 500 g, I’d add 65g soy sauce, and 50 g mirin.",
+        "Store in the fridge for at least 24 hours, but up to 3 days with no degradation in quality."
+      ]
+    },
+    {
+      "name": "Other Toppings",
+      "description": "I also stir fried some vegetables (like cabbage, beansprouts, onions) in a wok, and then deglazed that work with the broth, adding this to the bowl with the tare. Sliced green onions go on top.\n\nI imagine some bamboo shoots would also be good here."
+    }
+  ],
+  "images": [
+    "https://i.imgur.com/mangR8C.jpg",
+    "https://i.imgur.com/auhV2VK.jpg",
+    "https://i.imgur.com/yP02ESx.jpg",
+    "https://i.imgur.com/oYj4jiT.jpg",
+    "https://i.imgur.com/tcqcTua.jpg",
+    "https://i.imgur.com/Rr9LcKQ.jpg",
+    "https://i.imgur.com/yFNm6aq.jpg",
+    "https://i.imgur.com/nc0VLZf.jpg",
+    "https://i.imgur.com/1rwaAUX.jpg",
+    "https://i.imgur.com/TXkztCV.jpg",
+    "https://i.imgur.com/jHl4fYX.jpg",
+    "https://i.imgur.com/0MFq2xa.jpg",
+    "https://i.imgur.com/tJT7JSj.jpg"
+  ]
+}
