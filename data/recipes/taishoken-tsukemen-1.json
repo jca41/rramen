@@ -1,0 +1,101 @@
+{
+  "date": "2020-05-03T13:32:38.505Z",
+  "title": "Taishoken Tsukemen",
+  "author": "Ramen_Lord",
+  "originalRecipe": "https://www.reddit.com/r/ramen/comments/7snacy/next_up_on_my_tour_of_homemade_ramen_chintan/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage",
+  "intro": "Somehow, in all of the weird ramen I’ve been making, I have not posted a tsukemen recipe before. But y’all have been asking for it. And I finally have a good one. So here’s a rendition.\n\nNow, I should clarify. Tsukemen can exist in a crazy variety. And it would be impossible for me to break that down in this post. Some tsukemen has tonkotsu, fish powder, all sorts of ingredients. Today, we’ll be focusing on:\n\n1. Noodles\n2. Taishoken-era chintan dipping broth.\n\nThe noodles and broth in this recipe are definitely more modern, but they pay homage to the original. Taishoken is the inventor of the dish, but their noodles are similar in a lot of ways to standard ramen noodles, so the recipe is atypical in that regard. Further, the broth isn’t quiiiite like Taishoken, I think it has more refinement and is cleaner overall. Still, it good tho. Let’s break it down.",
+  "components": [
+    {
+      "name": "Noodles",
+      "description": "The noodles use a bit of whole wheat flour in addition to bread flour. This whole wheat accomplishes a few things:\n\n1. Adds more wheat flavor. A lot of the flavor of wheat is captured in the bran and germ, rather than the clean endosperm. In normal white flour, this bran and germ is excluded, resulting in a clean, simple profile that is versatile in a host of cooking applications. But for wheat flavor, sometimes it’s good to add a bit of the brown stuff. We’re not looking for full-on whole wheat noodles, but this will add flavor no double.\n2. Changes the color/appearance: The bran and germ contain the majority of the mineral content in the wheat berry. In flour milling, this mineral content is called “ash,” and higher ash flours tend to have a browner hue. For this tsukemen, I wanted to increase the ash content of the dry ingredients slightly, just from a pure visual perspective. Rather than searching for high ash flour, this move gets you pretty close (and some nice flecks too).\n3. Reduces some gluten formation. Because tsukemen noodles are so thick, and so hydrated, you actually don’t want a large amount of gluten. Developing the gluten too much will cause the noodles to be extremely, unpleasantly chewy, and require extensive cooking time.\n\nHere’s the recipe and steps. Processing method is the same as other recipes I’ve posted recently, but is provided for clarity.\n\nPer portion: *measure everything by weight*",
+      "ingredients": [
+        "95g King Arthur bread flour (12.7% protein by weight)",
+        "5g whole wheat All Purpose Flour",
+        "1 g egg white powder (optional)",
+        "42 g water",
+        "1 g salt",
+        "1 g baked soda or powdered kansui (more info on baked soda here) (For me, I used 30% Potassium carbonate and 70% sodium carbonate, aka baked soda, here. But all baked soda will work quite well)"
+      ],
+      "steps": [
+        "Add kansui powder and salt to the water, dissolve completely. I like to add one at a time, these alkaline salts actually release a small amount of heat when hitting the water and will form small chemical bonds to themselves if not added gradually, which results in it clumping up. \n\nGo slowly, stir constantly until clear. This will take awhile, but eventually things will work out.",
+        "In a standing mixer with a paddle attachment, add your flours and egg white powder. Turn the mixer to “stir” and run for 30 seconds.",
+        "While running the mixer on stir, add two thirds of your water mixture slowly, in an even stream. Let the mixer stir for 3 minutes.",
+        "Add in the remaining water mixture with the mixer running, run for another minute, until small clumps begin to form.",
+        "Remove the bowl from the mixer. Cover, and let this rest for at least 30 minutes, but an hour is fine. This gives the flour granules time to fully absorb the water and alkaline salts, rests some gluten (which, believe it or not, you developed while mixing this dough) and allows some trapped air in the dough balls to escape, which is called “degassing.” \n\nAn air free starch gel results in better texture. Don’t skip this.",
+        "Knead it. The hardest part of noodles, hands down. Currently I use an electric pasta machine to sheet the dough, going through the largest setting, then the 2nd, then the 3rd. I then take the dough and fold it, sheeting under the 2nd widest setting, then fold it again and sheet it under the widest setting. \n\nI then repeat this again, until the sheet is quite smooth and not ragged. You'll notice interesting horizontal lines running along the length of your dough if you do the folding right, suggesting your gluten strands are running the length of your dough. \n\nThis is good; it will help with texture of the noodle. If sheeting with a machine isn’t an option for you, I used to throw the mix into a plastic bag and step on it repeatedly.",
+        "After kneading, cover with plastic, and rest at room temp for another 30 minutes. This gives the gluten time to relax.",
+        "Pull out your dough. Portion into workable sizes, and roll out to desired thickness (for me this was a 2 on my marcato atlas, or 3.3 mm thick), using potato or cornstarch as you go to prevent sticking. \n\nDo this with a pasta machine, it is borderline impossible without a machine. An electric one will save you an incredible amount of effort.",
+        "Cut your noodles with a pasta cutter.",
+        "Place in the fridge and allow to rest for at least a day, This final resting phase ensures even hydration and helps make an even starch gel, promoting better texture. Enzymatic activity in the flour also helps build flavor, and the alkaline flavor of the dough subsides somewhat.",
+        "These noodles take around 3-4 minutes to cook. After cooking, it’s important to shock the noodles by running them under cold water to stop the cooking process. You’ll notice they feel much more dense after the shock."
+      ]
+    },
+    {
+      "name": "Broth",
+      "description": "**Taishoken** uses a pork/chicken chintan with solid gelatin content. I like straight chicken more, but the approach is essentially the same, you’d just swap the bones out.",
+      "ingredients": [
+        "4 lbs chicken backs (you can also use whole chicken)",
+        "4 lbs chicken feet, toenails snipped",
+        "1 onion, cut in half.",
+        "1 2-inch piece of ginger, peeled",
+        "10 cloves garlic",
+        "1 bunch of green onions (optional)",
+        "30 g niboshi (optional)",
+        "20 g Kombu",
+        "20 g Katsuobushi"
+      ],
+      "steps": [
+        "Add your chicken parts to a pot, with just enough water to cover.",
+        "Bring to a boil, reduce to a simmer, and skim scum as this heats, stirring occasionally to make sure the scum can rise to the top. This will take around 10-20 minutes potentially, be diligent.",
+        "When the broth is scum free (or as scum free as you can get it), cover, and cook at below simmer around 5-6 hours, with bubbles barely breaking the surface. For me, this is basically the lowest setting on my stove’s hottest burner. Your mileage may vary.",
+        "In the last hour, add in your onion, ginger, green onion, and garlic.",
+        "In the last 30 minutes, add in your niboshi.",
+        "In the last 15 minutes, add in your katsuobushi and kombu.",
+        "Strain and reserve as needed."
+      ]
+    },
+    {
+      "name": "Tare",
+      "description": "I just goofed around with a soy tare. This is probably not my most refined tare, but the key flavors here are kombu, soy, and a touch of vinegar, which I add separately to the bottom of the bowl.\n\nPer bowl: add 35 ml of tare, and a scant ¼ tsp of rice vinegar, or more to your taste. Use 250 ml of broth or so. Yes this will be too salty to drink alone. It’s a dip!",
+      "ingredients": [
+        "350 g Soy Sauce",
+        "15g Kombu",
+        "120g Mirin",
+        "50g Brown Sugar",
+        "5g msg (optional)",
+        "40g sake"
+      ],
+      "steps": [
+        "The day before making, soak the kombu in the soy sauce in a non reactive vessel",
+        "The day off, combine the mirin, brown sugar, MSG, and sake in a pot. Bring to a boil, and simmer for 5 minutes to reduce alcohol.",
+        "Add in your Soy sauce and Kombu, bring up to 160 F, hold for 15 minutes. For me, this is just letting the pot get to this temp, then cutting the heat and steeping like tea",
+        "Strain and reserve as needed. This will keep for months in the fridge, so feel free to make wayyyy in advance."
+      ]
+    },
+    {
+      "name": "Aroma Oil",
+      "description": "Standard green onion aroma oil here. Use whatever you like if this doesn’t fit your fancy",
+      "ingredients": [
+        "1 cup chicken fat (if you can harvest this from your broth, great!)",
+        "1 bunch of green onions, cut into 2 inch pieces."
+      ],
+      "steps": [
+        "Add to a pot and cook for 5-15 minutes, or until the oil feels aromatically complex."
+      ]
+    },
+    {
+      "name": "Toppings",
+      "description": "**Toppings**are pretty baseline. You can use eggs, chashu, whatever you like. But the noodles and broth are the star, and unique to this dish."
+    }
+  ],
+  "images": [
+    "https://i.imgur.com/BDSeWow.jpg",
+    "https://i.imgur.com/2aSD2c0.jpg",
+    "https://i.imgur.com/b3mv6dK.jpg",
+    "https://i.imgur.com/SGUN1l7.jpg",
+    "https://i.imgur.com/tuO4VP9.jpg",
+    "https://i.imgur.com/oTNpvlJ.jpg",
+    "https://i.imgur.com/XeNulzF.jpg",
+    "https://i.imgur.com/oe73YIK.jpg"
+  ]
+}
