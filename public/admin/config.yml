@@ -38,7 +38,7 @@ collections:
       - label: Images
         name: images
         widget: list
-        field: { label: Image Url, widget: string }
+        field: { label: Image Url, widget: string, name: ImageUrl }
       - label: Components
         name: components
         widget: list
@@ -53,8 +53,8 @@ collections:
           - label: Ingredients
             name: ingredients
             widget: list
-            field: { label: Ingredient, widget: string }
+            field: { label: Ingredient, widget: string, name: ingredient }
           - label: Steps
             name: steps
             widget: list
-            field: { label: Step, widget: markdown }
+            field: { label: Step, widget: markdown, name: step }

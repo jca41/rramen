@@ -40,7 +40,7 @@
       "steps": [
         "The night before, combine the kombu, mirin, sake, and white wine in a container. Place in the fridge and steep overnight, or up to 24 hours.",
         "When ready to make the tare, place the contents of step 1 in a saucepan and heat to 176 degrees. Hold for 5 minutes.",
-        "\n\n1. Remove the kombu from the liquid, add in the chicken ramen soup and the ground chicken. Cook, mixing frequently, at a boil until the chicken is thoroughly cooked, around 5 minutes.\n2.",
+        "Remove the kombu from the liquid, add in the chicken ramen soup and the ground chicken. Cook, mixing frequently, at a boil until the chicken is thoroughly cooked, around 5 minutes.",
         "Strain the liquid, reserving the cooked ground chicken for another use.",
         "Place the strained liquid back into a pot and add the salt and (optional) MSG. Cook until dissolved, whisking to incorporate, around 2-3 minutes."
       ]
@@ -94,13 +94,7 @@
     {
       "name": "Egg",
       "description": "",
-      "ingredients": [
-        "Eggs",
-        "chashu braising liquid",
-        "Mirin",
-        "Water",
-        "Soy sauce"
-      ],
+      "ingredients": ["Eggs", "chashu braising liquid", "Mirin", "Water", "Soy sauce"],
       "steps": [
         "Bring a large pot of water to a boil.",
         "Add your eggs, cooking for 6 min 30 seconds at a rolling boil.",
@@ -112,13 +106,7 @@
     {
       "name": "Assembly",
       "description": "I get asked for specific amounts when adding tare to stock, so here's the full process. Generally a good ratio of tare to soup is around 1:10 (so for 300 ml soup, add 30 ml tare), but it can vary by tare and depends on your taste. Just eyeball it, you can always add more to the soup later.\n\nFor one bowl:",
-      "ingredients": [
-        "360 ml soup",
-        "40 ml tare",
-        "1 tbsp aroma oil",
-        "150 g noodles",
-        "Toppings as liked"
-      ],
+      "ingredients": ["360 ml soup", "40 ml tare", "1 tbsp aroma oil", "150 g noodles", "Toppings as liked"],
       "steps": [
         "In your serving bowl, add the tare, aroma oil, and hot (just under boil is ideal) soup. Ideally in that order, as the cascading soup will help evenly disperse the aroma oil.",
         "Cook your noodles in boiling water to just shy of done, stirring frequently to prevent sticking.",
